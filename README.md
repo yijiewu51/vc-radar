@@ -1,115 +1,114 @@
-# VC Radar — Chrome Extension
+# VC Radar — Chrome 浏览器插件
 
-> Browse LinkedIn and Boss直聘, see VC-backed company badges instantly. Research unknown companies with AI, record job applications to Notion.
+> 在 LinkedIn 和 Boss直聘 浏览职位时，自动显示公司融资阶段角标。支持 AI 研究陌生公司、一键记录求职进度到 Notion。
 
 ![badge example](https://img.shields.io/badge/VC--backed-Sequoia%20·%20Series%20B-6366f1?style=flat-square)
 
 ---
 
-## Features
+## 功能介绍
 
-- **Funding badges** — automatically annotates company names on LinkedIn and Boss直聘 with funding stage + top investor (e.g. `Series B · Sequoia`)
-- **Hover tooltip** — hover the badge to see full company info: description, stage, investors, region, tags
-- **AI research (🔍)** — hover any unknown company name to get a Claude-powered summary with 5-star ratings for:
-  - 公司发展 (growth prospects)
-  - 薪资水平 (salary competitiveness)
+- **融资角标** — 自动在公司名旁显示融资阶段和主要投资方（如 `Series B · Sequoia`）
+- **悬停详情** — 鼠标悬停角标，查看公司完整信息：简介、融资阶段、投资方、地区、标签
+- **AI 研究（🔍）** — 鼠标悬停陌生公司名，点击 🔍 获取 Claude AI 简介，并附三项 1-5 星评分：
+  - 公司发展前景
+  - 薪资竞争力
   - Work-Life Balance
-- **Save to your list** — after AI research, add the company to your personal database so the badge appears on future visits
-- **Record to Notion (📌)** — one-click to log a job application (company, title, status, URL, date) into your Notion database
-- **2,800+ companies** — covers YC, a16z, Sequoia, Tiger Global, unicorns, Asia VC/PE/HF, and more
+- **加入我的列表** — AI 研究后可将公司保存到本地数据库，下次浏览自动显示角标
+- **记录到 Notion（📌）** — 点击角标上的 📌，一键将申请记录（公司、职位、状态、链接、日期）存入 Notion
+- **2800+ 家公司** — 涵盖 YC、a16z、Sequoia、Tiger Global、独角兽榜单、亚洲 VC/PE/对冲基金等
 
 ---
 
-## Installation
+## 安装方法
 
-> The extension is not on the Chrome Web Store. Load it manually:
+> 目前需手动加载，尚未上架 Chrome 商店。
 
-1. Clone or download this repo
-2. Open Chrome → `chrome://extensions`
-3. Enable **Developer mode** (top right)
-4. Click **Load unpacked** → select the `extension/` folder
-
----
-
-## Setup
-
-Open the extension popup (click the VC Radar icon) and fill in:
-
-### Notion Integration (for job tracking)
-
-1. Go to [notion.so/my-integrations](https://www.notion.so/my-integrations) → **New integration** → copy the **Internal Integration Token**
-2. Create a Notion database with these properties:
-
-   | Property | Type   |
-   |----------|--------|
-   | 公司      | Title  |
-   | 职位      | Text   |
-   | 来源      | Select |
-   | 状态      | Select |
-   | 链接      | URL    |
-   | 日期      | Date   |
-
-3. Share the database with your integration (click **...** → **Connect to** → select your integration)
-4. Copy the database ID from the URL: `notion.so/YOUR_DATABASE_ID?v=...`
-5. Paste the token and database ID into the popup
-
-### Anthropic API Key (for AI research)
-
-1. Get a key at [console.anthropic.com](https://console.anthropic.com)
-2. Paste it into the popup
+1. 下载或克隆本仓库
+2. 打开 Chrome，地址栏输入 `chrome://extensions`
+3. 右上角开启**开发者模式**
+4. 点击**加载已解压的扩展程序** → 选择 `extension/` 文件夹
 
 ---
 
-## Usage
+## 配置说明
+
+点击浏览器右上角的 VC Radar 图标，打开弹窗填写以下信息：
+
+### Notion 配置（用于记录求职进度）
+
+1. 前往 [notion.so/my-integrations](https://www.notion.so/my-integrations) → **新建集成** → 复制 **Internal Integration Token**
+2. 在 Notion 中新建一个数据库，添加以下字段：
+
+   | 字段名 | 类型   |
+   |--------|--------|
+   | 公司   | 标题   |
+   | 职位   | 文本   |
+   | 来源   | 选择   |
+   | 状态   | 选择   |
+   | 链接   | URL    |
+   | 日期   | 日期   |
+
+3. 点击数据库右上角 **...** → **连接到** → 选择你的集成
+4. 从数据库 URL 中复制 Database ID（格式：`notion.so/你的DATABASE_ID?v=...`）
+5. 将 Token 和 Database ID 填入弹窗并保存
+
+### Anthropic API Key（用于 AI 研究公司）
+
+1. 前往 [console.anthropic.com](https://console.anthropic.com) 获取 API Key
+2. 填入弹窗并保存
+
+---
+
+## 使用方式
 
 ### LinkedIn
-- Go to `linkedin.com/jobs` — badges appear automatically on company names in the job list and detail panel
-- Hover a badge to see full company info
-- Hover an unknown company name → click **🔍** → get AI summary + ratings → optionally save to your list
-- Click **📌** on any badge → log the application to Notion
+- 打开 `linkedin.com/jobs`，职位列表中公司名旁会自动出现角标
+- 悬停角标查看详情
+- 悬停没有角标的公司名 → 点击 🔍 → 获取 AI 简介和评分 → 可选择保存到本地
+- 点击角标上的 📌 → 填写职位信息 → 记录到 Notion
 
 ### Boss直聘
-- Same as LinkedIn — badges appear on company names in job cards
-- 🔍 and 📌 work the same way
+- 在职位列表中，已收录公司名旁自动显示角标
+- 🔍 和 📌 功能同上
 
 ---
 
-## Company Database
+## 公司数据库来源
 
-The extension ships with ~2,800 companies from:
-- Y Combinator (all batches)
-- a16z portfolio
-- Sequoia portfolio
-- Tiger Global, Coatue, D1 Capital
-- Unicorn list (CB Insights)
-- Asia VC/PE/HF: Hillhouse, Boyu, Matrix Partners China, Dymon Asia, Segantii, etc.
-- Chinese tech giants: ByteDance/字节跳动, Tencent/腾讯, Alibaba/阿里巴巴, etc.
+- Y Combinator（全批次）
+- a16z 投资组合
+- Sequoia 投资组合
+- Tiger Global、Coatue、D1 Capital
+- 独角兽榜单（CB Insights）
+- 亚洲机构：高瓴、博裕、华平、Matrix Partners China、Dymon Asia、Segantii 等
+- 中国互联网大厂：字节跳动、腾讯、阿里巴巴、百度、小米、华为等
 
-Companies you research and save via 🔍 are stored locally in Chrome and persist across sessions.
+通过 🔍 研究并保存的公司存储在 Chrome 本地，重启浏览器后依然有效。
 
 ---
 
-## Project Structure
+## 项目结构
 
 ```
 extension/
 ├── manifest.json
-├── background.js          # Service worker: Notion API, Claude API
+├── background.js          # Service Worker：调用 Notion API、Claude API
 ├── content/
-│   ├── common.js          # Badge injection, AI panel, hover logic
-│   ├── linkedin.js        # LinkedIn content script
-│   └── boss.js            # Boss直聘 content script
+│   ├── common.js          # 核心逻辑：角标注入、AI 面板、悬浮按钮
+│   ├── linkedin.js        # LinkedIn 内容脚本
+│   └── boss.js            # Boss直聘 内容脚本
 ├── popup/
 │   ├── popup.html
 │   └── popup.js
 ├── ui/
 │   └── badge.css
 └── data/
-    ├── companies.json     # Merged company database (~2,800 entries)
-    └── ...                # Source JSON files by fund/category
+    ├── companies.json     # 合并后的公司数据库（~2800 条）
+    └── ...                # 按基金/类别分类的原始 JSON
 
 scripts/
-└── scrape_a16z.py         # Data collection scripts
+└── *.py                   # 数据采集脚本
 ```
 
 ---
