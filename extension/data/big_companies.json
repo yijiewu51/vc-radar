@@ -1,0 +1,4160 @@
+[
+  {
+    "name": "NVIDIA",
+    "aliases": [
+      "NVIDIA Corporation",
+      "Nvidia"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "AI",
+      "GPU"
+    ],
+    "investors": [],
+    "description": "World's leading GPU and AI chip company",
+    "source": "manual"
+  },
+  {
+    "name": "Google",
+    "aliases": [
+      "Google LLC",
+      "Google DeepMind",
+      "Google Cloud",
+      "Alphabet",
+      "Alphabet Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Tech",
+      "AI",
+      "Cloud",
+      "Search"
+    ],
+    "investors": [],
+    "description": "Google — search, cloud, AI, and advertising giant",
+    "source": "manual"
+  },
+  {
+    "name": "Microsoft",
+    "aliases": [
+      "Microsoft Corporation",
+      "Microsoft Research",
+      "Azure",
+      "GitHub"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Tech",
+      "Cloud",
+      "AI",
+      "SaaS"
+    ],
+    "investors": [],
+    "description": "Enterprise software, cloud (Azure), and AI platform",
+    "source": "manual"
+  },
+  {
+    "name": "Apple",
+    "aliases": [
+      "Apple Inc",
+      "Apple Inc."
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Consumer Tech",
+      "Hardware",
+      "Software"
+    ],
+    "investors": [],
+    "description": "iPhone, Mac, services — world's largest company by market cap",
+    "source": "manual"
+  },
+  {
+    "name": "Meta",
+    "aliases": [
+      "Meta Platforms",
+      "Meta Platforms Inc",
+      "Facebook",
+      "Instagram",
+      "WhatsApp"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Social Media",
+      "AI",
+      "VR"
+    ],
+    "investors": [],
+    "description": "Meta — Facebook, Instagram, WhatsApp, AI research",
+    "source": "manual"
+  },
+  {
+    "name": "Amazon",
+    "aliases": [
+      "Amazon.com",
+      "Amazon Web Services",
+      "AWS",
+      "Amazon.com Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce",
+      "Cloud",
+      "AI"
+    ],
+    "investors": [],
+    "description": "E-commerce and cloud computing giant — AWS, Alexa",
+    "source": "manual"
+  },
+  {
+    "name": "Tesla",
+    "aliases": [
+      "Tesla Inc",
+      "Tesla, Inc."
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "EV",
+      "AI",
+      "Energy"
+    ],
+    "investors": [],
+    "description": "Electric vehicles, energy storage, and autonomous driving",
+    "source": "manual"
+  },
+  {
+    "name": "Netflix",
+    "aliases": [
+      "Netflix Inc",
+      "Netflix, Inc."
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Streaming",
+      "Media",
+      "Tech"
+    ],
+    "investors": [],
+    "description": "Global streaming entertainment platform",
+    "source": "manual"
+  },
+  {
+    "name": "Salesforce",
+    "aliases": [
+      "Salesforce Inc",
+      "Salesforce.com"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "SaaS",
+      "CRM",
+      "AI"
+    ],
+    "investors": [],
+    "description": "World's leading CRM and enterprise cloud platform",
+    "source": "manual"
+  },
+  {
+    "name": "Oracle",
+    "aliases": [
+      "Oracle Corporation",
+      "Oracle Cloud"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud",
+      "Database",
+      "Enterprise"
+    ],
+    "investors": [],
+    "description": "Enterprise database, cloud infrastructure, and ERP",
+    "source": "manual"
+  },
+  {
+    "name": "Intel",
+    "aliases": [
+      "Intel Corporation"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "AI",
+      "Hardware"
+    ],
+    "investors": [],
+    "description": "Semiconductor company — CPUs, data center, and AI chips",
+    "source": "manual"
+  },
+  {
+    "name": "AMD",
+    "aliases": [
+      "Advanced Micro Devices",
+      "Advanced Micro Devices Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "GPU",
+      "AI"
+    ],
+    "investors": [],
+    "description": "CPU and GPU chipmaker competing with Intel and NVIDIA",
+    "source": "manual"
+  },
+  {
+    "name": "Qualcomm",
+    "aliases": [
+      "Qualcomm Inc",
+      "Qualcomm Incorporated"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Mobile",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Mobile chip leader — Snapdragon processors and 5G modems",
+    "source": "manual"
+  },
+  {
+    "name": "Broadcom",
+    "aliases": [
+      "Broadcom Inc",
+      "Broadcom Limited"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Networking"
+    ],
+    "investors": [],
+    "description": "Semiconductor and infrastructure software company",
+    "source": "manual"
+  },
+  {
+    "name": "Texas Instruments",
+    "aliases": [
+      "Texas Instruments Inc",
+      "TI"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Analog"
+    ],
+    "investors": [],
+    "description": "Analog semiconductors and embedded processors",
+    "source": "manual"
+  },
+  {
+    "name": "Micron Technology",
+    "aliases": [
+      "Micron",
+      "Micron Technology Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Memory"
+    ],
+    "investors": [],
+    "description": "Memory and storage semiconductor company — DRAM, NAND",
+    "source": "manual"
+  },
+  {
+    "name": "Applied Materials",
+    "aliases": [
+      "Applied Materials Inc",
+      "AMAT"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Equipment"
+    ],
+    "investors": [],
+    "description": "Semiconductor manufacturing equipment and services",
+    "source": "manual"
+  },
+  {
+    "name": "ASML",
+    "aliases": [
+      "ASML Holding",
+      "ASML Holding N.V."
+    ],
+    "stage": "Public",
+    "regions": [
+      "Netherlands"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Equipment",
+      "EUV"
+    ],
+    "investors": [],
+    "description": "Monopoly EUV lithography machines for chip manufacturing",
+    "source": "manual"
+  },
+  {
+    "name": "TSMC",
+    "aliases": [
+      "Taiwan Semiconductor",
+      "Taiwan Semiconductor Manufacturing",
+      "TSMC Ltd"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Taiwan",
+      "USA",
+      "Japan"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Foundry"
+    ],
+    "investors": [],
+    "description": "World's largest contract chipmaker — makes chips for Apple, NVIDIA, AMD",
+    "source": "manual"
+  },
+  {
+    "name": "Samsung",
+    "aliases": [
+      "Samsung Electronics",
+      "Samsung Electronics Co",
+      "Samsung Group"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Consumer Electronics",
+      "Mobile"
+    ],
+    "investors": [],
+    "description": "Global electronics giant — memory chips, smartphones, displays",
+    "source": "manual"
+  },
+  {
+    "name": "SK Hynix",
+    "aliases": [
+      "SK hynix",
+      "SK hynix Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Semiconductors",
+      "Memory"
+    ],
+    "investors": [],
+    "description": "Korea memory chip manufacturer — DRAM and NAND flash",
+    "source": "manual"
+  },
+  {
+    "name": "Alibaba",
+    "aliases": [
+      "Alibaba Group",
+      "Alibaba Group Holding",
+      "Aliyun",
+      "Taobao",
+      "Tmall",
+      "AliExpress",
+      "Alibaba Cloud"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce",
+      "Cloud",
+      "AI"
+    ],
+    "investors": [],
+    "description": "China's leading e-commerce and cloud computing company",
+    "source": "manual"
+  },
+  {
+    "name": "Tencent",
+    "aliases": [
+      "Tencent Holdings",
+      "Tencent Holdings Ltd",
+      "WeChat",
+      "Tencent Cloud"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "Social Media",
+      "Gaming",
+      "Fintech",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "China tech giant — WeChat, games, cloud, investments",
+    "source": "manual"
+  },
+  {
+    "name": "Baidu",
+    "aliases": [
+      "Baidu Inc",
+      "Baidu.com",
+      "Baidu AI Cloud"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "Search",
+      "Autonomous Driving",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "China's leading search and AI company",
+    "source": "manual"
+  },
+  {
+    "name": "JD.com",
+    "aliases": [
+      "JD",
+      "Jingdong",
+      "JD Logistics"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce",
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "China's second largest e-commerce platform and logistics network",
+    "source": "manual"
+  },
+  {
+    "name": "Meituan",
+    "aliases": [
+      "Meituan-Dianping",
+      "Meituan Dianping"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "Food Delivery",
+      "Super App"
+    ],
+    "investors": [
+      "Tencent",
+      "Sequoia China"
+    ],
+    "description": "China's leading food delivery and local services platform",
+    "source": "manual"
+  },
+  {
+    "name": "Xiaomi",
+    "aliases": [
+      "Xiaomi Corporation",
+      "Xiaomi Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "Consumer Electronics",
+      "EV",
+      "IoT"
+    ],
+    "investors": [],
+    "description": "China consumer electronics and EV company",
+    "source": "manual"
+  },
+  {
+    "name": "Huawei",
+    "aliases": [
+      "Huawei Technologies",
+      "Huawei Technologies Co"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Telecom",
+      "Semiconductors",
+      "AI",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "China's largest tech company — telecom equipment, smartphones, cloud",
+    "source": "manual"
+  },
+  {
+    "name": "NetEase",
+    "aliases": [
+      "NetEase Inc",
+      "NetEase Games",
+      "Netease"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "Gaming",
+      "Music",
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "China online gaming, music, and education company",
+    "source": "manual"
+  },
+  {
+    "name": "Pinduoduo",
+    "aliases": [
+      "PDD Holdings",
+      "Temu",
+      "PDD"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce",
+      "Social Commerce"
+    ],
+    "investors": [],
+    "description": "China social e-commerce platform, parent of Temu",
+    "source": "manual"
+  },
+  {
+    "name": "Ant Group",
+    "aliases": [
+      "Ant Financial",
+      "Alipay",
+      "Ant Technology"
+    ],
+    "stage": "Pre-IPO",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Digital Bank"
+    ],
+    "investors": [
+      "Alibaba"
+    ],
+    "description": "Alipay and financial services platform — world's largest fintech",
+    "source": "manual"
+  },
+  {
+    "name": "ByteDance",
+    "aliases": [
+      "字节跳动",
+      "TikTok",
+      "Douyin"
+    ],
+    "stage": "Pre-IPO",
+    "regions": [
+      "China",
+      "USA",
+      "Singapore"
+    ],
+    "tags": [
+      "Social Media",
+      "AI",
+      "Short Video"
+    ],
+    "investors": [
+      "SoftBank",
+      "Sequoia China",
+      "General Atlantic"
+    ],
+    "description": "TikTok and Douyin parent — world's most valuable private startup",
+    "source": "manual"
+  },
+  {
+    "name": "Adobe",
+    "aliases": [
+      "Adobe Inc",
+      "Adobe Systems",
+      "Adobe Creative Cloud"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Creative Software",
+      "SaaS",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Creative software suite — Photoshop, Illustrator, Acrobat, Firefly AI",
+    "source": "manual"
+  },
+  {
+    "name": "ServiceNow",
+    "aliases": [
+      "ServiceNow Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "SaaS",
+      "Enterprise",
+      "AI",
+      "ITSM"
+    ],
+    "investors": [],
+    "description": "Cloud workflow automation and ITSM platform",
+    "source": "manual"
+  },
+  {
+    "name": "Workday",
+    "aliases": [
+      "Workday Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "HR Tech",
+      "SaaS",
+      "Finance"
+    ],
+    "investors": [],
+    "description": "Enterprise HR and financial management cloud platform",
+    "source": "manual"
+  },
+  {
+    "name": "SAP",
+    "aliases": [
+      "SAP SE",
+      "SAP Labs"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Germany"
+    ],
+    "tags": [
+      "ERP",
+      "Enterprise",
+      "SaaS",
+      "AI"
+    ],
+    "investors": [],
+    "description": "World's largest enterprise application software company",
+    "source": "manual"
+  },
+  {
+    "name": "Shopify",
+    "aliases": [
+      "Shopify Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Canada"
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS",
+      "Fintech"
+    ],
+    "investors": [],
+    "description": "E-commerce platform for merchants of all sizes",
+    "source": "manual"
+  },
+  {
+    "name": "Spotify",
+    "aliases": [
+      "Spotify Technology",
+      "Spotify AB"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Sweden",
+      "UK"
+    ],
+    "tags": [
+      "Music",
+      "Streaming",
+      "AI"
+    ],
+    "investors": [],
+    "description": "World's largest music and podcast streaming platform",
+    "source": "manual"
+  },
+  {
+    "name": "Uber",
+    "aliases": [
+      "Uber Technologies",
+      "Uber Technologies Inc",
+      "Uber Eats"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Mobility",
+      "Logistics",
+      "Fintech"
+    ],
+    "investors": [
+      "SoftBank",
+      "Benchmark",
+      "Google"
+    ],
+    "description": "Ride-hailing, food delivery, and freight platform",
+    "source": "manual"
+  },
+  {
+    "name": "Airbnb",
+    "aliases": [
+      "Airbnb Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Travel",
+      "Marketplace"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Sequoia",
+      "General Catalyst"
+    ],
+    "description": "Global home rental and experience marketplace",
+    "source": "manual"
+  },
+  {
+    "name": "Lyft",
+    "aliases": [
+      "Lyft Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Mobility",
+      "Ride-hailing"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Rakuten"
+    ],
+    "description": "US ride-hailing platform",
+    "source": "manual"
+  },
+  {
+    "name": "DoorDash",
+    "aliases": [
+      "DoorDash Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Food Delivery",
+      "Logistics"
+    ],
+    "investors": [
+      "SoftBank",
+      "Sequoia",
+      "Kleiner Perkins"
+    ],
+    "description": "USA's largest food delivery and local commerce platform",
+    "source": "manual"
+  },
+  {
+    "name": "Instacart",
+    "aliases": [
+      "Maplebear Inc",
+      "Instacart Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Grocery Delivery",
+      "Marketplace"
+    ],
+    "investors": [
+      "Sequoia",
+      "Andreessen Horowitz",
+      "Y Combinator"
+    ],
+    "description": "North America's leading grocery delivery platform",
+    "source": "manual"
+  },
+  {
+    "name": "Snap",
+    "aliases": [
+      "Snap Inc",
+      "Snapchat"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Social Media",
+      "AR",
+      "Camera"
+    ],
+    "investors": [
+      "Benchmark",
+      "IVP",
+      "General Catalyst"
+    ],
+    "description": "Snapchat — social media and AR camera platform",
+    "source": "manual"
+  },
+  {
+    "name": "Twitter",
+    "aliases": [
+      "X Corp",
+      "X",
+      "X.com",
+      "Twitter Inc"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Social Media"
+    ],
+    "investors": [],
+    "description": "Now X — real-time social networking platform",
+    "source": "manual"
+  },
+  {
+    "name": "LinkedIn",
+    "aliases": [
+      "LinkedIn Corporation",
+      "LinkedIn Corp"
+    ],
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Professional Network",
+      "SaaS"
+    ],
+    "investors": [
+      "Microsoft"
+    ],
+    "description": "Professional networking platform owned by Microsoft",
+    "source": "manual"
+  },
+  {
+    "name": "Zoom",
+    "aliases": [
+      "Zoom Video Communications",
+      "Zoom Video",
+      "Zoom Communications"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Video Conferencing",
+      "SaaS",
+      "AI"
+    ],
+    "investors": [
+      "Sequoia",
+      "Emergence Capital"
+    ],
+    "description": "Video communications and collaboration platform",
+    "source": "manual"
+  },
+  {
+    "name": "Slack",
+    "aliases": [
+      "Slack Technologies",
+      "Salesforce Slack"
+    ],
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Collaboration",
+      "SaaS"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Accel"
+    ],
+    "description": "Team messaging and collaboration, acquired by Salesforce",
+    "source": "manual"
+  },
+  {
+    "name": "Atlassian",
+    "aliases": [
+      "Atlassian Corporation",
+      "Jira",
+      "Confluence",
+      "Bitbucket"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Australia",
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Collaboration"
+    ],
+    "investors": [],
+    "description": "Developer and team collaboration tools — Jira, Confluence",
+    "source": "manual"
+  },
+  {
+    "name": "GitHub",
+    "aliases": [
+      "GitHub Inc"
+    ],
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "AI",
+      "Open Source"
+    ],
+    "investors": [
+      "Microsoft"
+    ],
+    "description": "World's largest code hosting and collaboration platform, owned by Microsoft",
+    "source": "manual"
+  },
+  {
+    "name": "GitLab",
+    "aliases": [
+      "GitLab Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "DevOps",
+      "AI"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "GV"
+    ],
+    "description": "DevSecOps platform for software development lifecycle",
+    "source": "manual"
+  },
+  {
+    "name": "HashiCorp",
+    "aliases": [
+      "HashiCorp Inc"
+    ],
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "Cloud"
+    ],
+    "investors": [
+      "GGV Capital",
+      "IVP",
+      "Mayfield"
+    ],
+    "description": "Cloud infrastructure automation — Terraform, Vault, Consul",
+    "source": "manual"
+  },
+  {
+    "name": "Cloudflare",
+    "aliases": [
+      "Cloudflare Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Networking",
+      "Security",
+      "Cloud",
+      "AI"
+    ],
+    "investors": [
+      "Fidelity",
+      "CapitalG"
+    ],
+    "description": "Global network security and cloud connectivity platform",
+    "source": "manual"
+  },
+  {
+    "name": "CrowdStrike",
+    "aliases": [
+      "CrowdStrike Holdings",
+      "CrowdStrike Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "AI",
+      "Cloud"
+    ],
+    "investors": [
+      "Accel",
+      "CapitalG",
+      "Warburg Pincus"
+    ],
+    "description": "AI-powered cybersecurity platform — endpoint protection",
+    "source": "manual"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "aliases": [
+      "Palo Alto Networks Inc",
+      "PANW"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Network Security",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Enterprise cybersecurity platform — network, cloud, AI security",
+    "source": "manual"
+  },
+  {
+    "name": "Fortinet",
+    "aliases": [
+      "Fortinet Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Networking"
+    ],
+    "investors": [],
+    "description": "Network security and firewall solutions for enterprise",
+    "source": "manual"
+  },
+  {
+    "name": "Zscaler",
+    "aliases": [
+      "Zscaler Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Cloud",
+      "Zero Trust"
+    ],
+    "investors": [
+      "Lightspeed",
+      "TPG"
+    ],
+    "description": "Cloud-native zero trust security platform",
+    "source": "manual"
+  },
+  {
+    "name": "SentinelOne",
+    "aliases": [
+      "SentinelOne Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "AI",
+      "Endpoint"
+    ],
+    "investors": [
+      "Tiger Global",
+      "Insight Partners"
+    ],
+    "description": "AI-powered endpoint and cloud security platform",
+    "source": "manual"
+  },
+  {
+    "name": "Datadog",
+    "aliases": [
+      "Datadog Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud Monitoring",
+      "DevOps",
+      "AI"
+    ],
+    "investors": [
+      "Index Ventures",
+      "OpenView"
+    ],
+    "description": "Cloud-scale monitoring and security analytics platform",
+    "source": "manual"
+  },
+  {
+    "name": "MongoDB",
+    "aliases": [
+      "MongoDB Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Database",
+      "Cloud",
+      "Developer Tools"
+    ],
+    "investors": [
+      "NEA",
+      "Flybridge"
+    ],
+    "description": "NoSQL document database and cloud data platform",
+    "source": "manual"
+  },
+  {
+    "name": "Elastic",
+    "aliases": [
+      "Elastic NV",
+      "Elasticsearch"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "Netherlands"
+    ],
+    "tags": [
+      "Search",
+      "Analytics",
+      "AI"
+    ],
+    "investors": [
+      "Benchmark",
+      "Index Ventures"
+    ],
+    "description": "Search and observability platform based on Elasticsearch",
+    "source": "manual"
+  },
+  {
+    "name": "Redis",
+    "aliases": [
+      "Redis Labs",
+      "Redis Ltd"
+    ],
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Database",
+      "Cloud",
+      "Developer Tools"
+    ],
+    "investors": [
+      "Bain Capital",
+      "Goldman Sachs"
+    ],
+    "description": "In-memory data store and real-time database platform",
+    "source": "manual"
+  },
+  {
+    "name": "Confluent",
+    "aliases": [
+      "Confluent Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data Streaming",
+      "Cloud",
+      "Developer Tools"
+    ],
+    "investors": [
+      "Sequoia",
+      "Index Ventures",
+      "Benchmark"
+    ],
+    "description": "Data streaming platform built on Apache Kafka",
+    "source": "manual"
+  },
+  {
+    "name": "Twilio",
+    "aliases": [
+      "Twilio Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Communications API",
+      "SaaS",
+      "AI"
+    ],
+    "investors": [
+      "Bessemer",
+      "Salesforce Ventures"
+    ],
+    "description": "Cloud communications APIs for messaging, voice, and email",
+    "source": "manual"
+  },
+  {
+    "name": "Stripe",
+    "aliases": [
+      "Stripe Inc",
+      "Stripe Payments"
+    ],
+    "stage": "Pre-IPO",
+    "regions": [
+      "USA",
+      "Ireland"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "API"
+    ],
+    "investors": [
+      "Sequoia",
+      "Andreessen Horowitz",
+      "Founders Fund"
+    ],
+    "description": "Global payment processing infrastructure for internet businesses",
+    "source": "manual"
+  },
+  {
+    "name": "Square",
+    "aliases": [
+      "Block Inc",
+      "Block",
+      "Cash App",
+      "Square Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Crypto"
+    ],
+    "investors": [],
+    "description": "Square and Cash App — payments, banking, and Bitcoin platform",
+    "source": "manual"
+  },
+  {
+    "name": "PayPal",
+    "aliases": [
+      "PayPal Holdings",
+      "PayPal Inc",
+      "Venmo",
+      "Braintree"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "Digital payments and commerce platform — Venmo, PayPal, Honey",
+    "source": "manual"
+  },
+  {
+    "name": "Visa",
+    "aliases": [
+      "Visa Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Payments",
+      "Fintech"
+    ],
+    "investors": [],
+    "description": "Global digital payment network and card network",
+    "source": "manual"
+  },
+  {
+    "name": "Mastercard",
+    "aliases": [
+      "Mastercard Inc",
+      "Mastercard Incorporated"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Payments",
+      "Fintech"
+    ],
+    "investors": [],
+    "description": "Global card payment network and financial services",
+    "source": "manual"
+  },
+  {
+    "name": "American Express",
+    "aliases": [
+      "AmEx",
+      "Amex",
+      "American Express Company"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Credit Card",
+      "Travel"
+    ],
+    "investors": [],
+    "description": "Premium credit cards, financial services, and travel rewards",
+    "source": "manual"
+  },
+  {
+    "name": "Robinhood",
+    "aliases": [
+      "Robinhood Markets",
+      "Robinhood Markets Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Investing",
+      "Neobroker"
+    ],
+    "investors": [
+      "Sequoia",
+      "Andreessen Horowitz",
+      "DST Global"
+    ],
+    "description": "Commission-free stock and crypto trading app",
+    "source": "manual"
+  },
+  {
+    "name": "Coinbase",
+    "aliases": [
+      "Coinbase Global",
+      "Coinbase Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Crypto",
+      "Exchange",
+      "Fintech"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Union Square"
+    ],
+    "description": "US's largest regulated cryptocurrency exchange",
+    "source": "manual"
+  },
+  {
+    "name": "OpenAI",
+    "aliases": [
+      "OpenAI Inc",
+      "OpenAI LP"
+    ],
+    "stage": "Pre-IPO",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Research"
+    ],
+    "investors": [
+      "Microsoft",
+      "Sequoia",
+      "Andreessen Horowitz"
+    ],
+    "description": "Creator of GPT-4, DALL-E, and ChatGPT — leading AI lab",
+    "source": "manual"
+  },
+  {
+    "name": "Anthropic",
+    "aliases": [
+      "Anthropic Inc",
+      "Anthropic PBC"
+    ],
+    "stage": "Series E",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Safety"
+    ],
+    "investors": [
+      "Google",
+      "Amazon",
+      "Salesforce"
+    ],
+    "description": "AI safety company — creator of Claude",
+    "source": "manual"
+  },
+  {
+    "name": "xAI",
+    "aliases": [
+      "xAI Corp",
+      "Grok"
+    ],
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Sequoia",
+      "Fidelity"
+    ],
+    "description": "Elon Musk's AI company — creator of Grok and xAI supercluster",
+    "source": "manual"
+  },
+  {
+    "name": "Palantir",
+    "aliases": [
+      "Palantir Technologies",
+      "Palantir Technologies Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Data Analytics",
+      "Defense",
+      "Government"
+    ],
+    "investors": [
+      "Founders Fund",
+      "In-Q-Tel"
+    ],
+    "description": "Big data analytics platform for government and enterprise",
+    "source": "manual"
+  },
+  {
+    "name": "Snowflake",
+    "aliases": [
+      "Snowflake Inc",
+      "Snowflake Computing"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud",
+      "Data",
+      "AI"
+    ],
+    "investors": [
+      "Sequoia",
+      "ICONIQ",
+      "Altimeter"
+    ],
+    "description": "Cloud data warehouse and AI data cloud",
+    "source": "manual"
+  },
+  {
+    "name": "Databricks",
+    "aliases": [
+      "Databricks Inc"
+    ],
+    "stage": "Pre-IPO",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Data",
+      "Cloud"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Baillie Gifford",
+      "Tiger Global"
+    ],
+    "description": "Unified data and AI platform — Delta Lake, MLflow",
+    "source": "manual"
+  },
+  {
+    "name": "Workiva",
+    "aliases": [
+      "Workiva Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "SaaS",
+      "Reporting",
+      "ESG"
+    ],
+    "investors": [],
+    "description": "Cloud platform for financial reporting and compliance",
+    "source": "manual"
+  },
+  {
+    "name": "Goldman Sachs",
+    "aliases": [
+      "Goldman Sachs Group",
+      "The Goldman Sachs Group",
+      "GS"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "investment bank",
+      "trading",
+      "IBD",
+      "asset management"
+    ],
+    "investors": [],
+    "description": "Global investment banking and financial services",
+    "source": "manual"
+  },
+  {
+    "name": "Morgan Stanley",
+    "aliases": [
+      "Morgan Stanley & Co",
+      "Morgan Stanley Smith Barney"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "investment bank",
+      "wealth management",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Global investment bank and wealth management firm",
+    "source": "manual"
+  },
+  {
+    "name": "JPMorgan Chase",
+    "aliases": [
+      "JPMorgan",
+      "JPMorgan Chase & Co",
+      "JPMorgan Chase & Co.",
+      "J.P. Morgan",
+      "JP Morgan",
+      "Chase",
+      "JPMorganChase"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank",
+      "trading",
+      "IBD"
+    ],
+    "investors": [],
+    "description": "World's largest bank by market cap — full-service investment and commercial banking",
+    "source": "manual"
+  },
+  {
+    "name": "Bank of America",
+    "aliases": [
+      "BofA",
+      "Bank of America Corporation",
+      "BofA Securities",
+      "Merrill Lynch",
+      "Merrill"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank",
+      "wealth management"
+    ],
+    "investors": [],
+    "description": "US megabank — investment banking, consumer, and wealth management",
+    "source": "manual"
+  },
+  {
+    "name": "Citigroup",
+    "aliases": [
+      "Citi",
+      "Citibank",
+      "Citi Group",
+      "Citigroup Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Global bank with presence in 160+ countries",
+    "source": "manual"
+  },
+  {
+    "name": "Wells Fargo",
+    "aliases": [
+      "Wells Fargo & Company",
+      "Wells Fargo Bank"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank"
+    ],
+    "investors": [],
+    "description": "US commercial bank and financial services firm",
+    "source": "manual"
+  },
+  {
+    "name": "BlackRock",
+    "aliases": [
+      "BlackRock Inc",
+      "BlackRock Asset Management",
+      "Aladdin"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "asset management",
+      "ETF",
+      "risk management"
+    ],
+    "investors": [],
+    "description": "World's largest asset manager — $10T+ AUM, creator of Aladdin",
+    "source": "manual"
+  },
+  {
+    "name": "Vanguard",
+    "aliases": [
+      "The Vanguard Group",
+      "Vanguard Group"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "asset management",
+      "ETF",
+      "index funds"
+    ],
+    "investors": [],
+    "description": "World's second-largest asset manager — pioneered index investing",
+    "source": "manual"
+  },
+  {
+    "name": "Fidelity",
+    "aliases": [
+      "Fidelity Investments",
+      "Fidelity Management & Research",
+      "FMR LLC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "asset management",
+      "brokerage",
+      "401k"
+    ],
+    "investors": [],
+    "description": "US's largest privately held financial services company",
+    "source": "manual"
+  },
+  {
+    "name": "UBS",
+    "aliases": [
+      "UBS Group",
+      "UBS Group AG",
+      "UBS AG"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Switzerland",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "investment bank",
+      "wealth management",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Swiss global bank — #1 wealth manager, investment banking",
+    "source": "manual"
+  },
+  {
+    "name": "Deutsche Bank",
+    "aliases": [
+      "Deutsche Bank AG"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Germany",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Germany's largest bank — investment banking and asset management",
+    "source": "manual"
+  },
+  {
+    "name": "Barclays",
+    "aliases": [
+      "Barclays PLC",
+      "Barclays Bank",
+      "Barclays Investment Bank"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank"
+    ],
+    "investors": [],
+    "description": "UK universal bank — investment banking, consumer, and cards",
+    "source": "manual"
+  },
+  {
+    "name": "HSBC",
+    "aliases": [
+      "HSBC Holdings",
+      "HSBC Holdings plc",
+      "HSBC Bank"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "HK",
+      "China",
+      "Singapore"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank",
+      "Asia focus"
+    ],
+    "investors": [],
+    "description": "Asia-focused global bank headquartered in London",
+    "source": "manual"
+  },
+  {
+    "name": "Standard Chartered",
+    "aliases": [
+      "Standard Chartered Bank",
+      "Standard Chartered PLC",
+      "StanChart"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "HK",
+      "Singapore",
+      "China"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank",
+      "Asia focus"
+    ],
+    "investors": [],
+    "description": "UK bank focused on Asia, Africa, and Middle East markets",
+    "source": "manual"
+  },
+  {
+    "name": "DBS Bank",
+    "aliases": [
+      "DBS",
+      "DBS Group",
+      "DBS Group Holdings"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Singapore",
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "commercial bank",
+      "fintech",
+      "digital banking"
+    ],
+    "investors": [],
+    "description": "Singapore's largest bank — digital banking leader in Asia",
+    "source": "manual"
+  },
+  {
+    "name": "OCBC",
+    "aliases": [
+      "OCBC Bank",
+      "Oversea-Chinese Banking Corporation",
+      "OCBC Group"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Singapore",
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "commercial bank",
+      "wealth management"
+    ],
+    "investors": [],
+    "description": "Singapore's second largest bank — banking and wealth management",
+    "source": "manual"
+  },
+  {
+    "name": "Nomura",
+    "aliases": [
+      "Nomura Holdings",
+      "Nomura Securities",
+      "Nomura Holdings Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "UK",
+      "USA",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "trading",
+      "asset management"
+    ],
+    "investors": [],
+    "description": "Japan's largest investment bank and brokerage",
+    "source": "manual"
+  },
+  {
+    "name": "Mitsubishi UFJ",
+    "aliases": [
+      "MUFG",
+      "Mitsubishi UFJ Financial Group",
+      "MUFG Bank",
+      "Bank of Tokyo-Mitsubishi UFJ"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank"
+    ],
+    "investors": [],
+    "description": "Japan's largest bank by assets — global financial services",
+    "source": "manual"
+  },
+  {
+    "name": "Sumitomo Mitsui",
+    "aliases": [
+      "SMBC",
+      "Sumitomo Mitsui Financial Group",
+      "SMBC Group",
+      "Sumitomo Mitsui Banking Corporation"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank"
+    ],
+    "investors": [],
+    "description": "Japan second-largest bank — banking, leasing, investment",
+    "source": "manual"
+  },
+  {
+    "name": "Mizuho",
+    "aliases": [
+      "Mizuho Financial Group",
+      "Mizuho Bank",
+      "Mizuho Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "USA",
+      "HK"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank"
+    ],
+    "investors": [],
+    "description": "Japan's third-largest bank — Mizuho Bank and Mizuho Securities",
+    "source": "manual"
+  },
+  {
+    "name": "Citadel",
+    "aliases": [
+      "Citadel LLC",
+      "Citadel Investment Group",
+      "Citadel Advisors"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "hedge fund",
+      "market making",
+      "quant"
+    ],
+    "investors": [],
+    "description": "World's top hedge fund — quant, macro, and equity strategies",
+    "source": "manual"
+  },
+  {
+    "name": "Citadel Securities",
+    "aliases": [
+      "Citadel Securities LLC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "market making",
+      "quant",
+      "trading"
+    ],
+    "investors": [],
+    "description": "World's leading market maker and electronic trading firm",
+    "source": "manual"
+  },
+  {
+    "name": "Bridgewater Associates",
+    "aliases": [
+      "Bridgewater",
+      "Bridgewater Associates LP"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "hedge fund",
+      "macro",
+      "global macro"
+    ],
+    "investors": [],
+    "description": "World's largest hedge fund — Ray Dalio's macro fund ($150B AUM)",
+    "source": "manual"
+  },
+  {
+    "name": "Two Sigma",
+    "aliases": [
+      "Two Sigma Investments",
+      "Two Sigma Securities"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "HK"
+    ],
+    "tags": [
+      "hedge fund",
+      "quant",
+      "data science"
+    ],
+    "investors": [],
+    "description": "Quantitative hedge fund using data science and technology",
+    "source": "manual"
+  },
+  {
+    "name": "D.E. Shaw",
+    "aliases": [
+      "DE Shaw",
+      "D. E. Shaw",
+      "D.E. Shaw & Co"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "HK"
+    ],
+    "tags": [
+      "hedge fund",
+      "quant",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Quantitative hedge fund and technology company",
+    "source": "manual"
+  },
+  {
+    "name": "Point72",
+    "aliases": [
+      "Point72 Asset Management",
+      "Point 72"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "hedge fund",
+      "equity",
+      "quant"
+    ],
+    "investors": [],
+    "description": "Steve Cohen's hedge fund — discretionary and quant strategies",
+    "source": "manual"
+  },
+  {
+    "name": "Millennium Management",
+    "aliases": [
+      "Millennium",
+      "Millennium Capital Management"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK"
+    ],
+    "tags": [
+      "hedge fund",
+      "multi-strategy"
+    ],
+    "investors": [],
+    "description": "Izzy Englander's multi-strategy hedge fund ($60B+ AUM)",
+    "source": "manual"
+  },
+  {
+    "name": "Jane Street",
+    "aliases": [
+      "Jane Street Capital",
+      "Jane Street Group"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "trading",
+      "market making",
+      "quant",
+      "crypto"
+    ],
+    "investors": [],
+    "description": "Quantitative trading firm and major crypto market maker",
+    "source": "manual"
+  },
+  {
+    "name": "Jump Trading",
+    "aliases": [
+      "Jump Trading LLC",
+      "Jump Capital"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "HFT",
+      "quant",
+      "trading",
+      "crypto"
+    ],
+    "investors": [],
+    "description": "High-frequency and algorithmic trading firm",
+    "source": "manual"
+  },
+  {
+    "name": "Optiver",
+    "aliases": [
+      "Optiver Holding",
+      "Optiver BV"
+    ],
+    "stage": "Private",
+    "regions": [
+      "Netherlands",
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "market making",
+      "HFT",
+      "options trading"
+    ],
+    "investors": [],
+    "description": "Global market maker specialising in options and derivatives",
+    "source": "manual"
+  },
+  {
+    "name": "IMC",
+    "aliases": [
+      "IMC Trading",
+      "IMC Financial Markets"
+    ],
+    "stage": "Private",
+    "regions": [
+      "Netherlands",
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "market making",
+      "HFT",
+      "quant"
+    ],
+    "investors": [],
+    "description": "Global market maker and proprietary trading firm",
+    "source": "manual"
+  },
+  {
+    "name": "Virtu Financial",
+    "aliases": [
+      "Virtu",
+      "Virtu Financial Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "HFT",
+      "market making",
+      "trading"
+    ],
+    "investors": [],
+    "description": "High-frequency market maker and execution services firm",
+    "source": "manual"
+  },
+  {
+    "name": "Hudson River Trading",
+    "aliases": [
+      "HRT",
+      "Hudson River Trading LLC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "HFT",
+      "quant",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Quantitative trading and market making firm",
+    "source": "manual"
+  },
+  {
+    "name": "DRW",
+    "aliases": [
+      "DRW Holdings",
+      "DRW Trading",
+      "Cumberland DRW"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "trading",
+      "crypto",
+      "market making",
+      "quant"
+    ],
+    "investors": [],
+    "description": "Diversified trading firm — DRW and Cumberland crypto trading",
+    "source": "manual"
+  },
+  {
+    "name": "Man Group",
+    "aliases": [
+      "Man Investments",
+      "AHL",
+      "Man AHL",
+      "Man GLG"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "hedge fund",
+      "quant",
+      "systematic"
+    ],
+    "investors": [],
+    "description": "World's largest listed hedge fund — quantitative and discretionary",
+    "source": "manual"
+  },
+  {
+    "name": "Winton Group",
+    "aliases": [
+      "Winton",
+      "Winton Capital Management"
+    ],
+    "stage": "Private",
+    "regions": [
+      "UK",
+      "HK"
+    ],
+    "tags": [
+      "hedge fund",
+      "quant",
+      "CTA"
+    ],
+    "investors": [],
+    "description": "UK quantitative investment management firm",
+    "source": "manual"
+  },
+  {
+    "name": "AQR Capital",
+    "aliases": [
+      "AQR",
+      "AQR Capital Management"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK"
+    ],
+    "tags": [
+      "hedge fund",
+      "quant",
+      "systematic"
+    ],
+    "investors": [],
+    "description": "Quantitative asset management firm — factor investing pioneer",
+    "source": "manual"
+  },
+  {
+    "name": "Blackstone",
+    "aliases": [
+      "The Blackstone Group",
+      "Blackstone Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "real estate",
+      "alternative assets"
+    ],
+    "investors": [],
+    "description": "World's largest alternative asset manager ($1T+ AUM)",
+    "source": "manual"
+  },
+  {
+    "name": "KKR",
+    "aliases": [
+      "KKR & Co",
+      "KKR & Co Inc",
+      "KKR & Co. Inc."
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "credit",
+      "infrastructure"
+    ],
+    "investors": [],
+    "description": "Global private equity and alternative asset management firm",
+    "source": "manual"
+  },
+  {
+    "name": "Carlyle Group",
+    "aliases": [
+      "The Carlyle Group",
+      "Carlyle"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "credit",
+      "infrastructure"
+    ],
+    "investors": [],
+    "description": "Global private equity and alternative asset manager",
+    "source": "manual"
+  },
+  {
+    "name": "Apollo Global Management",
+    "aliases": [
+      "Apollo",
+      "Apollo Global",
+      "Apollo Management"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "credit",
+      "real assets"
+    ],
+    "investors": [],
+    "description": "Alternative asset management firm — PE, credit, and real assets",
+    "source": "manual"
+  },
+  {
+    "name": "Bain Capital",
+    "aliases": [
+      "Bain Capital Partners",
+      "Bain Capital LLC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "venture capital",
+      "credit"
+    ],
+    "investors": [],
+    "description": "Multi-asset alternative investment firm",
+    "source": "manual"
+  },
+  {
+    "name": "Temasek",
+    "aliases": [
+      "Temasek Holdings",
+      "Temasek International"
+    ],
+    "stage": "Private",
+    "regions": [
+      "Singapore",
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "sovereign wealth fund",
+      "private equity",
+      "investment"
+    ],
+    "investors": [],
+    "description": "Singapore sovereign wealth fund ($300B+ portfolio)",
+    "source": "manual"
+  },
+  {
+    "name": "GIC",
+    "aliases": [
+      "GIC Private Limited",
+      "Government of Singapore Investment Corporation"
+    ],
+    "stage": "Private",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "sovereign wealth fund",
+      "long-term investment"
+    ],
+    "investors": [],
+    "description": "Singapore's sovereign wealth fund managing foreign reserves",
+    "source": "manual"
+  },
+  {
+    "name": "Sequoia Capital",
+    "aliases": [
+      "Sequoia",
+      "Sequoia Ventures",
+      "Sequoia Capital India"
+    ],
+    "stage": "VC",
+    "regions": [
+      "USA",
+      "China",
+      "India",
+      "Singapore"
+    ],
+    "tags": [
+      "venture capital",
+      "Series A",
+      "growth"
+    ],
+    "investors": [],
+    "description": "World's most successful venture capital firm",
+    "source": "manual"
+  },
+  {
+    "name": "Andreessen Horowitz",
+    "aliases": [
+      "a16z",
+      "Andreessen Horowitz LLC"
+    ],
+    "stage": "VC",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "venture capital",
+      "crypto",
+      "bio",
+      "enterprise"
+    ],
+    "investors": [],
+    "description": "Leading VC firm investing in technology and bio companies",
+    "source": "manual"
+  },
+  {
+    "name": "SoftBank",
+    "aliases": [
+      "SoftBank Group",
+      "SoftBank Vision Fund",
+      "SoftBank Corp"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "UK",
+      "USA"
+    ],
+    "tags": [
+      "venture capital",
+      "telecoms",
+      "Vision Fund"
+    ],
+    "investors": [],
+    "description": "Japan tech conglomerate — SoftBank Vision Fund, Arm, T-Mobile",
+    "source": "manual"
+  },
+  {
+    "name": "Hillhouse Capital",
+    "aliases": [
+      "Hillhouse",
+      "Hillhouse Group",
+      "Hillhouse Investment"
+    ],
+    "stage": "Private",
+    "regions": [
+      "HK",
+      "China",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "venture capital",
+      "hedge fund"
+    ],
+    "investors": [],
+    "description": "Asia's largest PE and VC firm — investor in Tencent, JD, Meituan",
+    "source": "manual"
+  },
+  {
+    "name": "HongShan",
+    "aliases": [
+      "红杉中国",
+      "Sequoia China",
+      "HongShan Capital"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "venture capital",
+      "China tech"
+    ],
+    "investors": [],
+    "description": "China's leading VC firm (formerly Sequoia China)",
+    "source": "manual"
+  },
+  {
+    "name": "Lazard",
+    "aliases": [
+      "Lazard Ltd",
+      "Lazard Frères"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "M&A advisory",
+      "restructuring"
+    ],
+    "investors": [],
+    "description": "Global financial advisory and asset management firm",
+    "source": "manual"
+  },
+  {
+    "name": "Evercore",
+    "aliases": [
+      "Evercore Inc",
+      "Evercore Partners"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "M&A advisory"
+    ],
+    "investors": [],
+    "description": "Independent investment banking advisory firm",
+    "source": "manual"
+  },
+  {
+    "name": "Moelis",
+    "aliases": [
+      "Moelis & Company"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "M&A advisory",
+      "restructuring"
+    ],
+    "investors": [],
+    "description": "Independent investment bank focused on M&A and restructuring",
+    "source": "manual"
+  },
+  {
+    "name": "PwC",
+    "aliases": [
+      "PricewaterhouseCoopers",
+      "PricewaterhouseCoopers LLP",
+      "PwC LLP"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "consulting",
+      "audit",
+      "advisory"
+    ],
+    "investors": [],
+    "description": "Big Four accounting and professional services firm",
+    "source": "manual"
+  },
+  {
+    "name": "Deloitte",
+    "aliases": [
+      "Deloitte Touche Tohmatsu",
+      "Deloitte & Touche"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "consulting",
+      "audit",
+      "advisory"
+    ],
+    "investors": [],
+    "description": "World's largest professional services and consulting firm",
+    "source": "manual"
+  },
+  {
+    "name": "McKinsey",
+    "aliases": [
+      "McKinsey & Company",
+      "McKinsey & Co"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "management consulting"
+    ],
+    "investors": [],
+    "description": "World's leading management consulting firm",
+    "source": "manual"
+  },
+  {
+    "name": "Boston Consulting Group",
+    "aliases": [
+      "BCG",
+      "The Boston Consulting Group"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "management consulting"
+    ],
+    "investors": [],
+    "description": "Global management consulting firm",
+    "source": "manual"
+  },
+  {
+    "name": "Bain & Company",
+    "aliases": [
+      "Bain and Company",
+      "Bain & Co"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "management consulting"
+    ],
+    "investors": [],
+    "description": "Global management consulting firm",
+    "source": "manual"
+  },
+  {
+    "name": "Accenture",
+    "aliases": [
+      "Accenture PLC",
+      "Accenture plc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Ireland",
+      "USA",
+      "UK",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "IT consulting",
+      "outsourcing",
+      "digital transformation"
+    ],
+    "investors": [],
+    "description": "Global IT services and consulting firm",
+    "source": "manual"
+  },
+  {
+    "name": "华兴资本",
+    "aliases": [
+      "China Renaissance",
+      "China Renaissance Capital",
+      "China Renaissance Holdings"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "M&A advisory",
+      "TMT"
+    ],
+    "investors": [],
+    "description": "专注中国科技和消费行业的精品投资银行",
+    "source": "manual"
+  },
+  {
+    "name": "CICC",
+    "aliases": [
+      "中金公司",
+      "中国国际金融",
+      "China International Capital Corporation",
+      "中金"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "trading",
+      "IBD"
+    ],
+    "investors": [],
+    "description": "中国领先投资银行",
+    "source": "manual"
+  },
+  {
+    "name": "中信证券",
+    "aliases": [
+      "CITIC Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "中国最大综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "海通证券",
+    "aliases": [
+      "Haitong Securities",
+      "Haitong International"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "中国大型综合券商及投资银行",
+    "source": "manual"
+  },
+  {
+    "name": "华泰证券",
+    "aliases": [
+      "Huatai Securities",
+      "Huatai Financial Holdings"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "UK",
+      "USA"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "中国大型综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "中信建投",
+    "aliases": [
+      "CSC Financial",
+      "China Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "中信建投证券",
+    "source": "manual"
+  },
+  {
+    "name": "国泰君安",
+    "aliases": [
+      "Guotai Junan",
+      "Guotai Junan Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "上海领先综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "广发证券",
+    "aliases": [
+      "GF Securities",
+      "Guangfa Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "广州领先综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "招商证券",
+    "aliases": [
+      "China Merchants Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "招商局集团旗下综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "国信证券",
+    "aliases": [
+      "Guosen Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "深圳领先综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "光大证券",
+    "aliases": [
+      "Everbright Securities",
+      "China Everbright Securities"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "光大集团旗下综合券商",
+    "source": "manual"
+  },
+  {
+    "name": "申万宏源",
+    "aliases": [
+      "Shenwan Hongyuan"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "申万宏源证券",
+    "source": "manual"
+  },
+  {
+    "name": "BNP Paribas",
+    "aliases": [
+      "BNP",
+      "Paribas",
+      "BNP Paribas SA"
+    ],
+    "stage": "Public",
+    "regions": [
+      "France",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "trading"
+    ],
+    "investors": [],
+    "description": "European universal bank and investment banking",
+    "source": "manual"
+  },
+  {
+    "name": "Societe Generale",
+    "aliases": [
+      "Societe Generale SA",
+      "SocGen",
+      "SG",
+      "Societe Generale Corporate and Investment Banking"
+    ],
+    "stage": "Public",
+    "regions": [
+      "France",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "trading",
+      "structured products"
+    ],
+    "investors": [],
+    "description": "French bank known for equity derivatives and structured products",
+    "source": "manual"
+  },
+  {
+    "name": "Credit Agricole",
+    "aliases": [
+      "Credit Agricole CIB",
+      "CA CIB",
+      "Calyon"
+    ],
+    "stage": "Public",
+    "regions": [
+      "France",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "commercial bank"
+    ],
+    "investors": [],
+    "description": "French cooperative bank and corporate investment banking",
+    "source": "manual"
+  },
+  {
+    "name": "ING",
+    "aliases": [
+      "ING Group",
+      "ING Bank",
+      "ING Groep"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Netherlands",
+      "UK",
+      "Singapore"
+    ],
+    "tags": [
+      "commercial bank",
+      "investment bank"
+    ],
+    "investors": [],
+    "description": "Dutch bank with strong digital and corporate banking",
+    "source": "manual"
+  },
+  {
+    "name": "Jefferies",
+    "aliases": [
+      "Jefferies Group",
+      "Jefferies Financial Group",
+      "Jefferies LLC"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "IBD",
+      "trading"
+    ],
+    "investors": [],
+    "description": "Global investment bank competing with bulge brackets",
+    "source": "manual"
+  },
+  {
+    "name": "Houlihan Lokey",
+    "aliases": [
+      "HL",
+      "Houlihan Lokey Inc"
+    ],
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "UK",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "restructuring",
+      "M&A"
+    ],
+    "investors": [],
+    "description": "Top-ranked restructuring and M&A advisory firm",
+    "source": "manual"
+  },
+  {
+    "name": "Rothschild",
+    "aliases": [
+      "Rothschild & Co",
+      "NM Rothschild",
+      "Rothschild Co"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "France",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "investment bank",
+      "M&A advisory",
+      "wealth management"
+    ],
+    "investors": [],
+    "description": "Independent financial advisory — M&A and restructuring",
+    "source": "manual"
+  },
+  {
+    "name": "Macquarie",
+    "aliases": [
+      "Macquarie Group",
+      "Macquarie Capital",
+      "Macquarie Bank"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Australia",
+      "HK",
+      "Singapore",
+      "UK",
+      "USA"
+    ],
+    "tags": [
+      "investment bank",
+      "infrastructure",
+      "asset management"
+    ],
+    "investors": [],
+    "description": "Australian global investment bank — infrastructure and green energy",
+    "source": "manual"
+  },
+  {
+    "name": "Daiwa Securities",
+    "aliases": [
+      "Daiwa",
+      "Daiwa Securities Group"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Japan",
+      "HK",
+      "Singapore",
+      "UK"
+    ],
+    "tags": [
+      "investment bank",
+      "brokerage"
+    ],
+    "investors": [],
+    "description": "Japan second-largest brokerage and investment bank",
+    "source": "manual"
+  },
+  {
+    "name": "PAG",
+    "aliases": [
+      "PAG Group",
+      "Pacific Alliance Group"
+    ],
+    "stage": "Private",
+    "regions": [
+      "HK",
+      "China",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "credit",
+      "real estate"
+    ],
+    "investors": [],
+    "description": "Asia-focused alternative asset manager ($50B+ AUM)",
+    "source": "manual"
+  },
+  {
+    "name": "MBK Partners",
+    "aliases": [
+      "MBK"
+    ],
+    "stage": "Private",
+    "regions": [
+      "HK",
+      "Korea",
+      "Japan",
+      "China"
+    ],
+    "tags": [
+      "private equity"
+    ],
+    "investors": [],
+    "description": "North Asia focused private equity",
+    "source": "manual"
+  },
+  {
+    "name": "Warburg Pincus",
+    "aliases": [
+      "Warburg Pincus LLC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "USA",
+      "China",
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "private equity",
+      "growth equity"
+    ],
+    "investors": [],
+    "description": "Global private equity with large Asia presence",
+    "source": "manual"
+  },
+  {
+    "name": "Qiming Venture Partners",
+    "aliases": [
+      "Qiming",
+      "启明创投",
+      "Qiming Ventures"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "venture capital",
+      "healthcare",
+      "TMT"
+    ],
+    "investors": [],
+    "description": "China-focused VC — Xiaomi, Meituan early investor",
+    "source": "manual"
+  },
+  {
+    "name": "IDG Capital",
+    "aliases": [
+      "IDG",
+      "IDG Ventures"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "USA",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "venture capital"
+    ],
+    "investors": [],
+    "description": "Early China VC — Tencent, Baidu early investor",
+    "source": "manual"
+  },
+  {
+    "name": "ZhenFund",
+    "aliases": [
+      "真格基金",
+      "Zhen Fund"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "venture capital",
+      "angel"
+    ],
+    "investors": [],
+    "description": "China early-stage VC by Xu Xiaoping",
+    "source": "manual"
+  },
+  {
+    "name": "Sinovation Ventures",
+    "aliases": [
+      "创新工场",
+      "Innovation Works"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "venture capital",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Kai-Fu Lee VC firm focused on AI and deep tech",
+    "source": "manual"
+  },
+  {
+    "name": "Source Code Capital",
+    "aliases": [
+      "源码资本"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "venture capital"
+    ],
+    "investors": [],
+    "description": "China VC — early investor in ByteDance, Meituan, Pinduoduo",
+    "source": "manual"
+  },
+  {
+    "name": "Vertex Ventures",
+    "aliases": [
+      "Vertex Holdings",
+      "Vertex Growth"
+    ],
+    "stage": "VC",
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "China"
+    ],
+    "tags": [
+      "venture capital"
+    ],
+    "investors": [],
+    "description": "Temasek-backed VC with Southeast Asia focus",
+    "source": "manual"
+  },
+  {
+    "name": "Jungle Ventures",
+    "aliases": [
+      "Jungle"
+    ],
+    "stage": "VC",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "venture capital"
+    ],
+    "investors": [],
+    "description": "Singapore VC focused on Southeast Asia",
+    "source": "manual"
+  },
+  {
+    "name": "易方达",
+    "aliases": [
+      "E Fund Management",
+      "E Fund"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "asset management",
+      "mutual fund"
+    ],
+    "investors": [],
+    "description": "中国最大公募基金之一",
+    "source": "manual"
+  },
+  {
+    "name": "华夏基金",
+    "aliases": [
+      "China Asset Management",
+      "China AMC"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "asset management",
+      "mutual fund"
+    ],
+    "investors": [],
+    "description": "中国最早公募基金之一",
+    "source": "manual"
+  },
+  {
+    "name": "Ping An",
+    "aliases": [
+      "Ping An Insurance",
+      "平安保险",
+      "中国平安",
+      "Ping An Group",
+      "Ping An Technology",
+      "Ping An Bank"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "insurance",
+      "fintech",
+      "AI"
+    ],
+    "investors": [],
+    "description": "China largest insurer — also fintech, AI, banking platform",
+    "source": "manual"
+  },
+  {
+    "name": "AIA Group",
+    "aliases": [
+      "AIA",
+      "AIA Insurance",
+      "AIA Holdings"
+    ],
+    "stage": "Public",
+    "regions": [
+      "HK",
+      "Singapore",
+      "China",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "insurance"
+    ],
+    "investors": [],
+    "description": "Pan-Asian life insurer headquartered in Hong Kong",
+    "source": "manual"
+  },
+  {
+    "name": "Prudential",
+    "aliases": [
+      "Prudential plc",
+      "Prudential Financial"
+    ],
+    "stage": "Public",
+    "regions": [
+      "UK",
+      "HK",
+      "Singapore",
+      "USA"
+    ],
+    "tags": [
+      "insurance",
+      "asset management"
+    ],
+    "investors": [],
+    "description": "UK-listed insurer with major Asia operations",
+    "source": "manual"
+  },
+  {
+    "name": "Manulife",
+    "aliases": [
+      "Manulife Financial",
+      "John Hancock"
+    ],
+    "stage": "Public",
+    "regions": [
+      "Canada",
+      "HK",
+      "Singapore",
+      "Japan"
+    ],
+    "tags": [
+      "insurance",
+      "asset management"
+    ],
+    "investors": [],
+    "description": "Canadian insurer with large Asia operations",
+    "source": "manual"
+  },
+  {
+    "name": "Aspex Management",
+    "aliases": [
+      "Aspex"
+    ],
+    "stage": "Private",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "hedge fund",
+      "Asia equities"
+    ],
+    "investors": [],
+    "description": "Hong Kong-based Asia equity hedge fund",
+    "source": "manual"
+  },
+  {
+    "name": "Greenwoods Asset Management",
+    "aliases": [
+      "Greenwoods",
+      "高礼投资"
+    ],
+    "stage": "Private",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "hedge fund",
+      "China equities"
+    ],
+    "investors": [],
+    "description": "China-focused long/short equity hedge fund",
+    "source": "manual"
+  },
+  {
+    "name": "Polymer Capital",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "Long/Short Equity",
+      "TMT",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Hong Kong-based hedge fund focused on Asia TMT long/short equity strategies",
+    "source": "curated"
+  },
+  {
+    "name": "Southern Ridges Capital",
+    "stage": "Hedge Fund",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Multi-Strategy",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Singapore-based multi-strategy hedge fund",
+    "source": "curated"
+  },
+  {
+    "name": "Dymon Asia Capital",
+    "stage": "Hedge Fund",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Macro",
+      "Multi-Strategy",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Singapore-based macro and multi-strategy hedge fund",
+    "source": "curated"
+  },
+  {
+    "name": "Quantedge",
+    "stage": "Hedge Fund",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Quant",
+      "Systematic"
+    ],
+    "investors": [],
+    "description": "Singapore quantitative hedge fund",
+    "source": "curated"
+  },
+  {
+    "name": "Broad Peak Investment",
+    "stage": "Hedge Fund",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Credit",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Singapore-based credit and special situations fund",
+    "source": "curated"
+  },
+  {
+    "name": "Isomer Capital",
+    "stage": "VC",
+    "regions": [
+      "Singapore",
+      "UK"
+    ],
+    "tags": [
+      "VC",
+      "Emerging Markets"
+    ],
+    "investors": [],
+    "description": "Singapore and London VC fund of funds",
+    "source": "curated"
+  },
+  {
+    "name": "Novo Tellus Capital",
+    "stage": "PE",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "PE",
+      "Southeast Asia",
+      "Tech"
+    ],
+    "investors": [],
+    "description": "Singapore technology-focused PE firm",
+    "source": "curated"
+  },
+  {
+    "name": "SeaTown Holdings",
+    "stage": "PE",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "PE",
+      "Multi-Asset"
+    ],
+    "investors": [
+      "Temasek"
+    ],
+    "description": "Temasek subsidiary, multi-asset investment firm",
+    "source": "curated"
+  },
+  {
+    "name": "Segantii Capital",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Event-Driven",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Hong Kong event-driven hedge fund",
+    "source": "curated"
+  },
+  {
+    "name": "LMR Partners",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK",
+      "UK"
+    ],
+    "tags": [
+      "Multi-Strategy",
+      "Equities"
+    ],
+    "investors": [],
+    "description": "Hong Kong and London multi-strategy fund",
+    "source": "curated"
+  },
+  {
+    "name": "Anatole Investment Management",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Macro",
+      "Asia"
+    ],
+    "investors": [],
+    "description": "Hong Kong global macro hedge fund",
+    "source": "curated"
+  },
+  {
+    "name": "Pinpoint Asset Management",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Long/Short Equity",
+      "China"
+    ],
+    "investors": [],
+    "description": "Hong Kong China-focused long/short equity fund",
+    "source": "curated"
+  },
+  {
+    "name": "Keywise Capital",
+    "stage": "Hedge Fund",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Long/Short Equity",
+      "China"
+    ],
+    "investors": [],
+    "description": "Hong Kong China-focused long/short equity fund",
+    "source": "curated"
+  },
+  {
+    "name": "Boyu Capital",
+    "aliases": [
+      "博裕资本"
+    ],
+    "stage": "PE",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "PE",
+      "China",
+      "Consumer"
+    ],
+    "investors": [],
+    "description": "Hong Kong China-focused PE firm",
+    "source": "curated"
+  },
+  {
+    "name": "Primavera Capital",
+    "aliases": [
+      "春华资本"
+    ],
+    "stage": "PE",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "PE",
+      "China",
+      "Consumer"
+    ],
+    "investors": [],
+    "description": "Hong Kong China-focused PE and growth equity",
+    "source": "curated"
+  },
+  {
+    "name": "CITIC Capital",
+    "aliases": [
+      "中信资本"
+    ],
+    "stage": "PE",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "PE",
+      "China"
+    ],
+    "investors": [],
+    "description": "CITIC Group's alternative investment arm",
+    "source": "curated"
+  },
+  {
+    "name": "CDH Investments",
+    "aliases": [
+      "鼎晖投资"
+    ],
+    "stage": "PE",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "PE",
+      "China",
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "One of China's largest PE firms",
+    "source": "curated"
+  },
+  {
+    "name": "FountainVest Partners",
+    "aliases": [
+      "方源资本"
+    ],
+    "stage": "PE",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "PE",
+      "Consumer",
+      "TMT"
+    ],
+    "investors": [],
+    "description": "Hong Kong China-focused buyout fund",
+    "source": "curated"
+  },
+  {
+    "name": "Hony Capital",
+    "aliases": [
+      "弘毅投资"
+    ],
+    "stage": "PE",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "PE",
+      "China",
+      "Industrial"
+    ],
+    "investors": [],
+    "description": "Legend Holdings' PE arm, major China PE firm",
+    "source": "curated"
+  },
+  {
+    "name": "Yunfeng Capital",
+    "aliases": [
+      "云锋基金"
+    ],
+    "stage": "PE/VC",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "PE",
+      "VC",
+      "China"
+    ],
+    "investors": [],
+    "description": "PE/VC firm co-founded by Jack Ma and Yu Feng",
+    "source": "curated"
+  },
+  {
+    "name": "GL Capital",
+    "aliases": [
+      "高榕资本"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "VC",
+      "Consumer",
+      "TMT"
+    ],
+    "investors": [],
+    "description": "China early-stage VC focused on consumer and tech",
+    "source": "curated"
+  },
+  {
+    "name": "Matrix Partners China",
+    "aliases": [
+      "经纬创投"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "VC",
+      "Early Stage"
+    ],
+    "investors": [],
+    "description": "Leading China early-stage VC fund",
+    "source": "curated"
+  },
+  {
+    "name": "GGV Capital",
+    "aliases": [
+      "纪源资本"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "VC",
+      "Cross-border"
+    ],
+    "investors": [],
+    "description": "US-China cross-border venture capital",
+    "source": "curated"
+  },
+  {
+    "name": "Morningside Venture Capital",
+    "aliases": [
+      "晨兴资本"
+    ],
+    "stage": "VC",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "VC",
+      "Early Stage",
+      "China"
+    ],
+    "investors": [],
+    "description": "HK-based early-stage VC, early investor in Xiaomi",
+    "source": "curated"
+  },
+  {
+    "name": "Banyan Capital",
+    "aliases": [
+      "班扬投资"
+    ],
+    "stage": "VC",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "VC",
+      "Early Stage"
+    ],
+    "investors": [],
+    "description": "China early-stage technology VC",
+    "source": "curated"
+  },
+  {
+    "name": "Softbank Vision Fund",
+    "stage": "VC",
+    "regions": [
+      "Japan",
+      "USA",
+      "Global"
+    ],
+    "tags": [
+      "VC",
+      "Growth",
+      "AI"
+    ],
+    "investors": [
+      "SoftBank"
+    ],
+    "description": "World's largest tech-focused venture fund by SoftBank",
+    "source": "curated"
+  },
+  {
+    "name": "JAFCO",
+    "stage": "VC",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "VC",
+      "Japan"
+    ],
+    "investors": [],
+    "description": "Japan's oldest and largest independent VC firm",
+    "source": "curated"
+  },
+  {
+    "name": "Global Brain",
+    "stage": "VC",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "VC",
+      "Japan",
+      "Deeptech"
+    ],
+    "investors": [],
+    "description": "Japan-based global VC firm",
+    "source": "curated"
+  },
+  {
+    "name": "WiL",
+    "stage": "VC",
+    "regions": [
+      "Japan",
+      "USA"
+    ],
+    "tags": [
+      "VC",
+      "Japan",
+      "US-Japan"
+    ],
+    "investors": [],
+    "description": "Japan-US cross-border venture capital",
+    "source": "curated"
+  }
+]

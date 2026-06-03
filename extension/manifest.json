@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "VC Radar",
+  "version": "0.2.0",
+  "description": "在 LinkedIn 和 Boss直聘 上标注潜力初创公司，一键记录到 Notion",
+  "permissions": ["storage"],
+  "host_permissions": ["https://api.notion.com/*", "https://api.anthropic.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "VC Radar 设置"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.linkedin.com/*"],
+      "js": ["content/common.js", "content/linkedin.js"],
+      "css": ["ui/badge.css"]
+    },
+    {
+      "matches": ["*://www.zhipin.com/*"],
+      "js": ["content/common.js", "content/boss.js"],
+      "css": ["ui/badge.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data/companies.json"],
+      "matches": ["*://*.linkedin.com/*", "*://www.zhipin.com/*"]
+    }
+  ]
+}

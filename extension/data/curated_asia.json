@@ -1,0 +1,2992 @@
+[
+  {
+    "name": "Grab",
+    "stage": "Public",
+    "regions": [
+      "Southeast Asia",
+      "Singapore"
+    ],
+    "tags": [
+      "Super App",
+      "Fintech",
+      "Logistics"
+    ],
+    "investors": [
+      "SoftBank",
+      "Uber",
+      "Tiger Global"
+    ],
+    "description": "Southeast Asia's leading superapp — ride-hailing, food delivery, fintech",
+    "aliases": [
+      "Grab",
+      "Grab Holdings"
+    ]
+  },
+  {
+    "name": "Sea Group",
+    "stage": "Public",
+    "regions": [
+      "Southeast Asia",
+      "Singapore"
+    ],
+    "tags": [
+      "E-commerce",
+      "Gaming",
+      "Fintech"
+    ],
+    "investors": [
+      "Tencent",
+      "Carlyle"
+    ],
+    "description": "Parent of Shopee, Garena, SeaMoney",
+    "aliases": [
+      "Sea",
+      "Sea Limited"
+    ]
+  },
+  {
+    "name": "Shopee",
+    "stage": "Public",
+    "regions": [
+      "Southeast Asia",
+      "Singapore"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [
+      "Tencent"
+    ],
+    "description": "Leading e-commerce platform in Southeast Asia",
+    "aliases": [
+      "虾皮"
+    ]
+  },
+  {
+    "name": "Gojek",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Super App",
+      "Logistics"
+    ],
+    "investors": [
+      "Google",
+      "Tencent",
+      "Sequoia"
+    ],
+    "description": "Indonesia super-app for transport, food, payments"
+  },
+  {
+    "name": "Tokopedia",
+    "stage": "Public",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [
+      "SoftBank",
+      "Alibaba"
+    ],
+    "description": "Indonesia's largest e-commerce marketplace"
+  },
+  {
+    "name": "Bukalapak",
+    "stage": "Public",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [
+      "GIC",
+      "Emtek"
+    ],
+    "description": "Indonesian e-commerce and fintech platform"
+  },
+  {
+    "name": "Traveloka",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Travel",
+      "Fintech"
+    ],
+    "investors": [
+      "Expedia",
+      "GGV",
+      "East Ventures"
+    ],
+    "description": "Southeast Asia's leading travel platform"
+  },
+  {
+    "name": "Carousell",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Marketplace"
+    ],
+    "investors": [
+      "Sequoia India",
+      "500 Global"
+    ],
+    "description": "Recommerce marketplace across Southeast Asia"
+  },
+  {
+    "name": "Nium",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [
+      "Visa",
+      "Temasek",
+      "Riverwood"
+    ],
+    "description": "Global payments infrastructure platform"
+  },
+  {
+    "name": "Airwallex",
+    "stage": "Unicorn",
+    "regions": [
+      "HK",
+      "Singapore",
+      "Australia"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [
+      "Tencent",
+      "Sequoia China",
+      "DST Global"
+    ],
+    "description": "Global financial infrastructure for modern businesses"
+  },
+  {
+    "name": "Aspire",
+    "stage": "Series C",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Fintech",
+      "SME"
+    ],
+    "investors": [
+      "Lightspeed",
+      "Y Combinator"
+    ],
+    "description": "SME neobank and financial management platform"
+  },
+  {
+    "name": "Patsnap",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "AI",
+      "IP Analytics"
+    ],
+    "investors": [
+      "SoftBank",
+      "Tencent"
+    ],
+    "description": "AI-powered patent and IP analytics platform"
+  },
+  {
+    "name": "Circles.Life",
+    "stage": "Series D",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Telecom",
+      "B2B SaaS"
+    ],
+    "investors": [
+      "Sequoia India",
+      "EDBI"
+    ],
+    "description": "Digital telco and B2B telecom stack provider"
+  },
+  {
+    "name": "PropertyGuru",
+    "stage": "Public",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Proptech"
+    ],
+    "investors": [
+      "KKR",
+      "TPG"
+    ],
+    "description": "Southeast Asia's leading property marketplace"
+  },
+  {
+    "name": "Ninja Van",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [
+      "B Capital",
+      "Monk's Hill"
+    ],
+    "description": "Last-mile logistics network in Southeast Asia"
+  },
+  {
+    "name": "Kredivo",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Fintech",
+      "BNPL"
+    ],
+    "investors": [
+      "Square Peg",
+      "Jungle Ventures"
+    ],
+    "description": "Buy-now-pay-later and credit platform in Southeast Asia"
+  },
+  {
+    "name": "WeLab",
+    "stage": "Unicorn",
+    "regions": [
+      "HK",
+      "China"
+    ],
+    "tags": [
+      "Fintech",
+      "Neobank"
+    ],
+    "investors": [
+      "Alibaba",
+      "ING",
+      "Sequoia China"
+    ],
+    "description": "Hong Kong fintech — virtual bank and lending platform"
+  },
+  {
+    "name": "Amber Group",
+    "stage": "Unicorn",
+    "regions": [
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "Crypto",
+      "Digital Assets"
+    ],
+    "investors": [
+      "Temasek",
+      "Tiger Global",
+      "Sequoia China"
+    ],
+    "description": "Digital asset platform for institutions and wealth"
+  },
+  {
+    "name": "HashKey Group",
+    "stage": "Series A",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Crypto",
+      "Exchange"
+    ],
+    "investors": [
+      "HashKey Capital"
+    ],
+    "description": "Licensed crypto exchange and asset management in HK"
+  },
+  {
+    "name": "OSL",
+    "stage": "Public",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Crypto",
+      "Exchange"
+    ],
+    "investors": [
+      "BC Group"
+    ],
+    "description": "Licensed institutional crypto exchange in Hong Kong"
+  },
+  {
+    "name": "BC Technology Group",
+    "stage": "Public",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Crypto",
+      "Fintech"
+    ],
+    "investors": [],
+    "description": "Hong Kong listed digital asset firm, parent of OSL"
+  },
+  {
+    "name": "Animoca Brands",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Web3",
+      "Gaming",
+      "NFT"
+    ],
+    "investors": [
+      "Sequoia China",
+      "Ubisoft"
+    ],
+    "description": "Web3 gaming company — Sandbox, OpenFlow, Phantom Galaxies"
+  },
+  {
+    "name": "The Sandbox",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Web3",
+      "Gaming",
+      "Metaverse"
+    ],
+    "investors": [
+      "Animoca Brands",
+      "SoftBank"
+    ],
+    "description": "Decentralised gaming metaverse on blockchain"
+  },
+  {
+    "name": "GoGoX",
+    "stage": "Public",
+    "regions": [
+      "HK",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Logistics",
+      "On-demand"
+    ],
+    "investors": [
+      "Tencent",
+      "JAFCO"
+    ],
+    "description": "On-demand logistics platform in HK and Southeast Asia"
+  },
+  {
+    "name": "Bowtie",
+    "stage": "Series B",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Insurtech"
+    ],
+    "investors": [
+      "EDBI",
+      "Sun Life"
+    ],
+    "description": "Hong Kong's first virtual insurer"
+  },
+  {
+    "name": "ZA Bank",
+    "stage": "Series B",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "ZhongAn",
+      "Xiaomi"
+    ],
+    "description": "Hong Kong's largest virtual bank"
+  },
+  {
+    "name": "Neat",
+    "stage": "Series B",
+    "regions": [
+      "HK",
+      "Singapore"
+    ],
+    "tags": [
+      "Fintech",
+      "SME"
+    ],
+    "investors": [
+      "Pacific Century Premium Developments"
+    ],
+    "description": "SME neobank for Hong Kong and Singapore businesses"
+  },
+  {
+    "name": "AnkrPay",
+    "stage": "Series A",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Crypto",
+      "Payments"
+    ],
+    "investors": [],
+    "description": "Crypto payments infrastructure"
+  },
+  {
+    "name": "Mercari",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Marketplace",
+      "C2C"
+    ],
+    "investors": [],
+    "description": "Japan's largest C2C marketplace, also operates in USA"
+  },
+  {
+    "name": "SmartHR",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "HR Tech",
+      "B2B SaaS"
+    ],
+    "investors": [
+      "Sequoia",
+      "Salesforce Ventures"
+    ],
+    "description": "Japan's leading HR management SaaS platform"
+  },
+  {
+    "name": "Freee",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Fintech",
+      "Accounting SaaS"
+    ],
+    "investors": [
+      "DCM",
+      "Global Brain"
+    ],
+    "description": "Japan cloud accounting and HR SaaS for SMEs"
+  },
+  {
+    "name": "Money Forward",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "investors": [
+      "Recruit",
+      "SoftBank"
+    ],
+    "description": "Japan personal finance and B2B accounting platform"
+  },
+  {
+    "name": "Paidy",
+    "stage": "Acquired",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Fintech",
+      "BNPL"
+    ],
+    "investors": [
+      "PayPal",
+      "Visa",
+      "Arbor Ventures"
+    ],
+    "description": "Japan's buy-now-pay-later platform, acquired by PayPal"
+  },
+  {
+    "name": "Sansan",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "B2B SaaS",
+      "AI"
+    ],
+    "investors": [
+      "DNX",
+      "Mitsui"
+    ],
+    "description": "Business card and contact management SaaS in Japan"
+  },
+  {
+    "name": "PKSHA Technology",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "investors": [],
+    "description": "Japan AI company developing algorithms for enterprise"
+  },
+  {
+    "name": "Preferred Networks",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Robotics"
+    ],
+    "investors": [
+      "Toyota",
+      "Hitachi",
+      "NTT"
+    ],
+    "description": "Japan's leading deep learning research company"
+  },
+  {
+    "name": "Sakura Internet",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Cloud",
+      "AI Infrastructure"
+    ],
+    "investors": [],
+    "description": "Japan cloud infrastructure provider, major AI compute player"
+  },
+  {
+    "name": "Matsuo Institute",
+    "stage": "Research",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI"
+    ],
+    "investors": [],
+    "description": "Leading AI research group at University of Tokyo"
+  },
+  {
+    "name": "Wovn Technologies",
+    "stage": "Series C",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "SaaS",
+      "Localisation"
+    ],
+    "investors": [
+      "Global Brain",
+      "JAFCO"
+    ],
+    "description": "Website localisation platform"
+  },
+  {
+    "name": "Finatext",
+    "stage": "Public",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "investors": [
+      "SMBC",
+      "NTT Docomo"
+    ],
+    "description": "Japan embedded finance and data analytics platform"
+  },
+  {
+    "name": "Kyash",
+    "stage": "Series D",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Fintech",
+      "Neobank"
+    ],
+    "investors": [
+      "Mitsubishi UFJ",
+      "Goodwater Capital"
+    ],
+    "description": "Japan digital wallet and prepaid card platform"
+  },
+  {
+    "name": "LayerX",
+    "stage": "Series C",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "Fintech",
+      "Privacy"
+    ],
+    "investors": [
+      "SBI",
+      "Mitsui"
+    ],
+    "description": "Japan AI and blockchain company focused on enterprise and fintech"
+  },
+  {
+    "name": "Spiral.AI",
+    "stage": "Seed",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [],
+    "description": "Japan-focused large language model company"
+  },
+  {
+    "name": "Sakana AI",
+    "stage": "Seed",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "Foundation Models"
+    ],
+    "investors": [
+      "Lux Capital",
+      "New Enterprise Associates"
+    ],
+    "description": "Nature-inspired AI research lab in Tokyo"
+  },
+  {
+    "name": "Turing",
+    "stage": "Series B",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "AI",
+      "Autonomous Driving"
+    ],
+    "investors": [
+      "JAFCO",
+      "WiL"
+    ],
+    "description": "Japan autonomous driving AI company"
+  },
+  {
+    "name": "Moonshot AI",
+    "stage": "Series C",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "Alibaba",
+      "Sequoia China",
+      "HongShan"
+    ],
+    "description": "China AI lab — creator of Kimi large language model",
+    "aliases": [
+      "月之暗面"
+    ]
+  },
+  {
+    "name": "Zhipu AI",
+    "stage": "Series C",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "Alibaba",
+      "Tencent",
+      "Meituan"
+    ],
+    "description": "China AI company behind GLM and ChatGLM models",
+    "aliases": [
+      "智谱AI",
+      "智谱",
+      "北京智谱华章"
+    ]
+  },
+  {
+    "name": "Minimax",
+    "stage": "Series B",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Multimodal"
+    ],
+    "investors": [
+      "Tencent",
+      "Hillhouse",
+      "HongShan"
+    ],
+    "description": "China multimodal AI company — Hailuo video generation",
+    "aliases": [
+      "MiniMax"
+    ]
+  },
+  {
+    "name": "Stepfun",
+    "stage": "Series A",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "HongShan",
+      "ZhenFund"
+    ],
+    "description": "China AI lab building Step series foundation models",
+    "aliases": [
+      "阶跃星辰"
+    ]
+  },
+  {
+    "name": "Baichuan Intelligence",
+    "stage": "Series B",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "Alibaba",
+      "Tencent",
+      "Sequoia China"
+    ],
+    "description": "China AI lab, large-scale language models"
+  },
+  {
+    "name": "01.AI",
+    "stage": "Series A",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "Alibaba",
+      "Sinovation"
+    ],
+    "description": "AI 2.0 company by Kai-Fu Lee building Yi foundation models",
+    "aliases": [
+      "零一万物"
+    ]
+  },
+  {
+    "name": "DeepSeek",
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "investors": [
+      "High-Flyer"
+    ],
+    "description": "China AI lab known for DeepSeek-R1 open-source model",
+    "aliases": [
+      "深度求索"
+    ]
+  },
+  {
+    "name": "Manus AI",
+    "stage": "Seed",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "Agents"
+    ],
+    "investors": [
+      "Peak XV",
+      "Tencent"
+    ],
+    "description": "General-purpose AI agent platform"
+  },
+  {
+    "name": "Horizon Robotics",
+    "stage": "Pre-IPO",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "Autonomous Driving"
+    ],
+    "investors": [
+      "BMW",
+      "Volkswagen",
+      "SK Hynix"
+    ],
+    "description": "China edge AI chip and autonomous driving solutions",
+    "aliases": [
+      "地平线"
+    ]
+  },
+  {
+    "name": "SenseTime",
+    "stage": "Public",
+    "regions": [
+      "China",
+      "HK"
+    ],
+    "tags": [
+      "AI",
+      "Computer Vision"
+    ],
+    "investors": [
+      "SoftBank",
+      "Alibaba",
+      "Qualcomm"
+    ],
+    "description": "China's leading AI vision company",
+    "aliases": [
+      "商汤",
+      "商汤科技"
+    ]
+  },
+  {
+    "name": "Megvii",
+    "stage": "Pre-IPO",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "Computer Vision"
+    ],
+    "investors": [
+      "Alibaba",
+      "Goldman Sachs"
+    ],
+    "description": "China AI company, Face++ computer vision platform",
+    "aliases": [
+      "旷视",
+      "旷视科技"
+    ]
+  },
+  {
+    "name": "Cambricon",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "AI",
+      "Chips"
+    ],
+    "investors": [
+      "Alibaba",
+      "Lenovo"
+    ],
+    "description": "China AI chip company for intelligent processor units",
+    "aliases": [
+      "寒武纪"
+    ]
+  },
+  {
+    "name": "CATL",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Clean Energy",
+      "EV Batteries"
+    ],
+    "investors": [],
+    "description": "World's largest EV battery manufacturer",
+    "aliases": [
+      "宁德时代"
+    ]
+  },
+  {
+    "name": "BYD",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "EV",
+      "Manufacturing"
+    ],
+    "investors": [
+      "Berkshire Hathaway"
+    ],
+    "description": "China's leading electric vehicle manufacturer",
+    "aliases": [
+      "比亚迪"
+    ]
+  },
+  {
+    "name": "NIO",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "EV"
+    ],
+    "investors": [
+      "Tencent",
+      "Baidu"
+    ],
+    "description": "China premium smart electric vehicle company",
+    "aliases": [
+      "蔚来",
+      "蔚来汽车"
+    ]
+  },
+  {
+    "name": "Xpeng",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "EV",
+      "AI"
+    ],
+    "investors": [
+      "Alibaba",
+      "Xiaomi"
+    ],
+    "description": "China smart EV maker with AI driving system",
+    "aliases": [
+      "小鹏",
+      "小鹏汽车"
+    ]
+  },
+  {
+    "name": "Li Auto",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "EV"
+    ],
+    "investors": [
+      "Meituan",
+      "Wang Xing"
+    ],
+    "description": "China extended-range electric vehicle company",
+    "aliases": [
+      "理想",
+      "理想汽车"
+    ]
+  },
+  {
+    "name": "Meituan",
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Super App",
+      "Food Delivery"
+    ],
+    "investors": [
+      "Tencent",
+      "Sequoia China"
+    ],
+    "description": "China's leading food delivery and local services platform",
+    "aliases": [
+      "美团"
+    ]
+  },
+  {
+    "name": "DJI",
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Drones",
+      "Robotics",
+      "Hardware"
+    ],
+    "investors": [
+      "Sequoia China",
+      "Accel"
+    ],
+    "description": "World's leading drone manufacturer",
+    "aliases": [
+      "大疆",
+      "大疆创新"
+    ]
+  },
+  {
+    "name": "Shein",
+    "stage": "Unicorn",
+    "regions": [
+      "China",
+      "Singapore"
+    ],
+    "tags": [
+      "E-commerce",
+      "Fast Fashion"
+    ],
+    "investors": [
+      "Tiger Global",
+      "General Atlantic",
+      "IDG"
+    ],
+    "description": "Ultra-fast fashion e-commerce platform",
+    "aliases": [
+      "希音",
+      "SHEIN"
+    ]
+  },
+  {
+    "name": "Revolut",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Fintech",
+      "Neobank"
+    ],
+    "investors": [
+      "SoftBank",
+      "Tiger Global",
+      "DST Global"
+    ],
+    "description": "UK-founded global neobank and financial superapp"
+  },
+  {
+    "name": "Monzo",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "General Catalyst",
+      "Y Combinator"
+    ],
+    "description": "UK digital bank with 9M+ customers"
+  },
+  {
+    "name": "Starling Bank",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "Qatar Investment Authority",
+      "Fidelity"
+    ],
+    "description": "UK digital challenger bank for retail and SME"
+  },
+  {
+    "name": "Wise",
+    "stage": "Public",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Baillie Gifford"
+    ],
+    "description": "Global money transfer and multi-currency account platform"
+  },
+  {
+    "name": "Checkout.com",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [
+      "Tiger Global",
+      "DST Global"
+    ],
+    "description": "Payment processing infrastructure for enterprise"
+  },
+  {
+    "name": "Darktrace",
+    "stage": "Public",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "AI"
+    ],
+    "investors": [
+      "KKR",
+      "Vitruvian"
+    ],
+    "description": "AI-powered cybersecurity platform"
+  },
+  {
+    "name": "Arm Holdings",
+    "stage": "Public",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Semiconductors",
+      "AI"
+    ],
+    "investors": [
+      "SoftBank"
+    ],
+    "description": "UK semiconductor company — designs chips used in most smartphones"
+  },
+  {
+    "name": "DeepMind",
+    "stage": "Acquired",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "investors": [
+      "Google"
+    ],
+    "description": "Google DeepMind — world-leading AI research lab"
+  },
+  {
+    "name": "Magic Pony Technology",
+    "stage": "Acquired",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Computer Vision"
+    ],
+    "investors": [
+      "Twitter"
+    ],
+    "description": "Machine learning company for video and image synthesis"
+  },
+  {
+    "name": "Improbable",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Simulation",
+      "Web3",
+      "Gaming"
+    ],
+    "investors": [
+      "SoftBank",
+      "Andreessen Horowitz"
+    ],
+    "description": "Distributed simulation and metaverse infrastructure"
+  },
+  {
+    "name": "Graphcore",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Chips"
+    ],
+    "investors": [
+      "Sequoia",
+      "Microsoft",
+      "BMW"
+    ],
+    "description": "UK AI chip company — intelligence processing units"
+  },
+  {
+    "name": "Wayve",
+    "stage": "Series C",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Autonomous Driving"
+    ],
+    "investors": [
+      "Microsoft",
+      "SoftBank",
+      "NVIDIA"
+    ],
+    "description": "UK autonomous driving AI company using embodied intelligence"
+  },
+  {
+    "name": "Stability AI",
+    "stage": "Series A",
+    "regions": [
+      "UK",
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Generative AI"
+    ],
+    "investors": [
+      "Lightspeed",
+      "O'Shaughnessy"
+    ],
+    "description": "Open-source generative AI — creator of Stable Diffusion"
+  },
+  {
+    "name": "PolyAI",
+    "stage": "Series C",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Voice",
+      "Customer Service"
+    ],
+    "investors": [
+      "Tiger Global",
+      "Khosla"
+    ],
+    "description": "Enterprise voice AI for customer service automation"
+  },
+  {
+    "name": "Tractable",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "AI",
+      "Insurtech"
+    ],
+    "investors": [
+      "SoftBank",
+      "Georgian"
+    ],
+    "description": "AI for vehicle damage and disaster recovery assessment"
+  },
+  {
+    "name": "Anduril",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Defense Tech",
+      "AI"
+    ],
+    "investors": [
+      "Founders Fund",
+      "Andreessen Horowitz"
+    ],
+    "description": "Defense technology company building autonomous systems"
+  },
+  {
+    "name": "Scale AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Data Labeling"
+    ],
+    "investors": [
+      "Accel",
+      "Tiger Global",
+      "Index Ventures"
+    ],
+    "description": "AI data platform — labeling infrastructure for AI training"
+  },
+  {
+    "name": "Cohere",
+    "stage": "Unicorn",
+    "regions": [
+      "USA",
+      "Canada"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Enterprise"
+    ],
+    "investors": [
+      "Index Ventures",
+      "Tiger Global",
+      "Oracle"
+    ],
+    "description": "Enterprise AI platform — large language models for business"
+  },
+  {
+    "name": "Mistral AI",
+    "stage": "Unicorn",
+    "regions": [
+      "France",
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "LLM",
+      "Open Source"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Lightspeed",
+      "General Catalyst"
+    ],
+    "description": "European open-source large language model company"
+  },
+  {
+    "name": "Perplexity AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Search"
+    ],
+    "investors": [
+      "IVP",
+      "NEA",
+      "NVIDIA"
+    ],
+    "description": "AI-powered search and answer engine"
+  },
+  {
+    "name": "Character.AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Consumer"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Google"
+    ],
+    "description": "Conversational AI platform for personalised AI characters"
+  },
+  {
+    "name": "Midjourney",
+    "stage": "Private",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Generative AI",
+      "Image"
+    ],
+    "investors": [],
+    "description": "AI image generation research lab and platform"
+  },
+  {
+    "name": "Runway",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Video",
+      "Generative AI"
+    ],
+    "investors": [
+      "Google",
+      "Salesforce",
+      "General Atlantic"
+    ],
+    "description": "Generative AI video creation and editing platform"
+  },
+  {
+    "name": "Harvey AI",
+    "stage": "Series C",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Legal Tech"
+    ],
+    "investors": [
+      "Sequoia",
+      "Kleiner Perkins",
+      "OpenAI Fund"
+    ],
+    "description": "AI legal platform for law firms and enterprises"
+  },
+  {
+    "name": "Sierra",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Agents",
+      "Enterprise"
+    ],
+    "investors": [
+      "Sequoia",
+      "Benchmark"
+    ],
+    "description": "Conversational AI platform for customer-facing agents"
+  },
+  {
+    "name": "Together AI",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Infrastructure",
+      "Cloud"
+    ],
+    "investors": [
+      "Salesforce Ventures",
+      "NVIDIA"
+    ],
+    "description": "AI cloud platform for training and running open-source models"
+  },
+  {
+    "name": "Modal",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Infrastructure",
+      "Cloud"
+    ],
+    "investors": [
+      "Redpoint",
+      "Co-Venture"
+    ],
+    "description": "Serverless cloud for AI and ML workloads"
+  },
+  {
+    "name": "Lambda Labs",
+    "stage": "Series C",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Infrastructure",
+      "GPU Cloud"
+    ],
+    "investors": [
+      "SK Telecom",
+      "USIT"
+    ],
+    "description": "GPU cloud computing for AI training and inference"
+  },
+  {
+    "name": "CoreWeave",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Infrastructure",
+      "GPU Cloud"
+    ],
+    "investors": [
+      "Coatue",
+      "Jane Street",
+      "Magnetar"
+    ],
+    "description": "GPU cloud provider specialised for AI workloads"
+  },
+  {
+    "name": "Weights & Biases",
+    "stage": "Series C",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "MLOps",
+      "Developer Tools"
+    ],
+    "investors": [
+      "Coatue",
+      "Tiger Global",
+      "Y Combinator"
+    ],
+    "description": "ML experiment tracking and model management platform"
+  },
+  {
+    "name": "Hugging Face",
+    "stage": "Unicorn",
+    "regions": [
+      "USA",
+      "France"
+    ],
+    "tags": [
+      "AI",
+      "Open Source",
+      "Platform"
+    ],
+    "investors": [
+      "Salesforce",
+      "Google",
+      "Amazon"
+    ],
+    "description": "AI model hub and open-source ML platform"
+  },
+  {
+    "name": "Langchain",
+    "stage": "Series A",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Developer Tools",
+      "LLM"
+    ],
+    "investors": [
+      "Sequoia",
+      "Benchmark"
+    ],
+    "description": "Framework and platform for building LLM applications"
+  },
+  {
+    "name": "Cursor",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Developer Tools",
+      "Coding"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Thrive Capital"
+    ],
+    "description": "AI-first code editor built on VSCode"
+  },
+  {
+    "name": "Windsurf",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Developer Tools",
+      "Coding"
+    ],
+    "investors": [
+      "General Catalyst"
+    ],
+    "description": "AI coding assistant and IDE by Codeium"
+  },
+  {
+    "name": "Linear",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Productivity"
+    ],
+    "investors": [
+      "Sequoia",
+      "Accel"
+    ],
+    "description": "Issue tracking and project management for software teams"
+  },
+  {
+    "name": "Vercel",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Cloud",
+      "Frontend"
+    ],
+    "investors": [
+      "Accel",
+      "GV",
+      "Tiger Global"
+    ],
+    "description": "Frontend deployment platform and Next.js creator"
+  },
+  {
+    "name": "Supabase",
+    "stage": "Series C",
+    "regions": [
+      "USA",
+      "Singapore"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Database",
+      "Open Source"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Y Combinator"
+    ],
+    "description": "Open-source Firebase alternative and Postgres platform"
+  },
+  {
+    "name": "PlanetScale",
+    "stage": "Series C",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Database"
+    ],
+    "investors": [
+      "a16z",
+      "SignalFire"
+    ],
+    "description": "Serverless MySQL database platform built on Vitess"
+  },
+  {
+    "name": "Retool",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer Tools",
+      "Low-Code"
+    ],
+    "investors": [
+      "Sequoia",
+      "Y Combinator"
+    ],
+    "description": "Low-code platform for building internal tools"
+  },
+  {
+    "name": "Figma",
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Design Tools",
+      "SaaS",
+      "Collaboration"
+    ],
+    "investors": [
+      "Sequoia",
+      "Index Ventures",
+      "ICONIQ"
+    ],
+    "description": "Collaborative design and prototyping tool"
+  },
+  {
+    "name": "Notion",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Productivity",
+      "SaaS",
+      "Collaboration"
+    ],
+    "investors": [
+      "Sequoia",
+      "Index Ventures",
+      "Coatue"
+    ],
+    "description": "All-in-one workspace for notes, docs, wikis, and projects"
+  },
+  {
+    "name": "Airtable",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "No-Code",
+      "SaaS",
+      "Database"
+    ],
+    "investors": [
+      "Benchmark",
+      "Coatue",
+      "D1 Capital"
+    ],
+    "description": "Low-code platform for building collaborative apps and databases"
+  },
+  {
+    "name": "Databricks",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "AI",
+      "Data",
+      "Cloud"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Baillie Gifford",
+      "Tiger Global"
+    ],
+    "description": "Data and AI platform built on Apache Spark and Delta Lake"
+  },
+  {
+    "name": "Snowflake",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud",
+      "Data",
+      "Analytics"
+    ],
+    "investors": [
+      "Sequoia",
+      "ICONIQ",
+      "Altimeter"
+    ],
+    "description": "Cloud data warehouse and data sharing platform"
+  },
+  {
+    "name": "dbt Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data",
+      "Analytics",
+      "Developer Tools"
+    ],
+    "investors": [
+      "Sequoia",
+      "Andreessen Horowitz",
+      "Altimeter"
+    ],
+    "description": "Analytics engineering platform — SQL transformation layer"
+  },
+  {
+    "name": "Monte Carlo",
+    "stage": "Series D",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data",
+      "Observability"
+    ],
+    "investors": [
+      "ICONIQ",
+      "GV",
+      "Accel"
+    ],
+    "description": "Data observability platform for data reliability"
+  },
+  {
+    "name": "Ramp",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Expense Management"
+    ],
+    "investors": [
+      "Founders Fund",
+      "Thrive Capital",
+      "D1 Capital"
+    ],
+    "description": "Corporate card and expense management platform"
+  },
+  {
+    "name": "Brex",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Banking"
+    ],
+    "investors": [
+      "Greenoaks",
+      "Tiger Global",
+      "Y Combinator"
+    ],
+    "description": "Corporate card, expense, and banking platform for startups"
+  },
+  {
+    "name": "Rippling",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "HR Tech",
+      "SaaS",
+      "Payroll"
+    ],
+    "investors": [
+      "Founders Fund",
+      "Greenoaks",
+      "Kleiner Perkins"
+    ],
+    "description": "All-in-one HR, payroll, IT, and finance platform"
+  },
+  {
+    "name": "Deel",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "HR Tech",
+      "Global Payroll",
+      "SaaS"
+    ],
+    "investors": [
+      "Y Combinator",
+      "Coatue",
+      "Tiger Global"
+    ],
+    "description": "Global payroll, compliance, and HR platform"
+  },
+  {
+    "name": "Remote",
+    "stage": "Unicorn",
+    "regions": [
+      "USA",
+      "UK"
+    ],
+    "tags": [
+      "HR Tech",
+      "Global Payroll"
+    ],
+    "investors": [
+      "Sequoia",
+      "Index Ventures"
+    ],
+    "description": "Employer of record and global payroll platform"
+  },
+  {
+    "name": "Lattice",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "HR Tech",
+      "Performance Management"
+    ],
+    "investors": [
+      "Tiger Global",
+      "Thrive Capital"
+    ],
+    "description": "People management and performance review platform"
+  },
+  {
+    "name": "Workato",
+    "stage": "Unicorn",
+    "regions": [
+      "USA",
+      "Singapore"
+    ],
+    "tags": [
+      "Automation",
+      "SaaS",
+      "Integration"
+    ],
+    "investors": [
+      "Battery Ventures",
+      "Tiger Global"
+    ],
+    "description": "Enterprise automation and integration platform"
+  },
+  {
+    "name": "Celonis",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany",
+      "USA"
+    ],
+    "tags": [
+      "Process Mining",
+      "AI",
+      "Enterprise"
+    ],
+    "investors": [
+      "Accel",
+      "Arena Holdings"
+    ],
+    "description": "Process mining and execution management platform"
+  },
+  {
+    "name": "UiPath",
+    "stage": "Public",
+    "regions": [
+      "USA",
+      "Romania"
+    ],
+    "tags": [
+      "RPA",
+      "Automation",
+      "AI"
+    ],
+    "investors": [
+      "Sequoia",
+      "Accel",
+      "Kleiner Perkins"
+    ],
+    "description": "Robotic process automation and AI platform"
+  },
+  {
+    "name": "ServiceTitan",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "SaaS",
+      "Field Service",
+      "Vertical"
+    ],
+    "investors": [
+      "Bessemer",
+      "Battery Ventures",
+      "ICONIQ"
+    ],
+    "description": "Business management platform for home service companies"
+  },
+  {
+    "name": "Toast",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "SaaS",
+      "Vertical",
+      "Restaurant"
+    ],
+    "investors": [
+      "Bessemer",
+      "Tiger Global"
+    ],
+    "description": "Restaurant management and payments platform"
+  },
+  {
+    "name": "Navan",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Travel",
+      "Expense",
+      "SaaS"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Lightspeed",
+      "Coatue"
+    ],
+    "description": "Corporate travel and expense management platform"
+  },
+  {
+    "name": "SpaceX",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Aerospace",
+      "Deep Tech"
+    ],
+    "investors": [
+      "Founders Fund",
+      "Google",
+      "Fidelity"
+    ],
+    "description": "Private aerospace company — Falcon rockets, Dragon, Starlink"
+  },
+  {
+    "name": "Relativity Space",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Aerospace",
+      "3D Printing"
+    ],
+    "investors": [
+      "Tiger Global",
+      "Tribe Capital"
+    ],
+    "description": "3D-printed rocket manufacturer"
+  },
+  {
+    "name": "Astra",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Aerospace"
+    ],
+    "investors": [
+      "Airbus Ventures"
+    ],
+    "description": "Small satellite launch vehicle company"
+  },
+  {
+    "name": "Joby Aviation",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "eVTOL",
+      "Urban Mobility"
+    ],
+    "investors": [
+      "Toyota",
+      "Intel Capital"
+    ],
+    "description": "Electric air taxi company"
+  },
+  {
+    "name": "Archer Aviation",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "eVTOL",
+      "Urban Mobility"
+    ],
+    "investors": [
+      "United Airlines",
+      "Stellantis"
+    ],
+    "description": "Electric vertical takeoff and landing aircraft"
+  },
+  {
+    "name": "Samsara",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "IoT",
+      "Fleet Management",
+      "SaaS"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "General Catalyst"
+    ],
+    "description": "IoT platform for fleet and industrial operations"
+  },
+  {
+    "name": "Nuro",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Autonomous Vehicles",
+      "Delivery"
+    ],
+    "investors": [
+      "SoftBank",
+      "Tiger Global",
+      "Google"
+    ],
+    "description": "Autonomous delivery vehicle company"
+  },
+  {
+    "name": "Wealthfront",
+    "stage": "Acquired",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "WealthTech"
+    ],
+    "investors": [
+      "Tiger Global",
+      "Index Ventures"
+    ],
+    "description": "Automated investing and financial planning platform"
+  },
+  {
+    "name": "Betterment",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "WealthTech"
+    ],
+    "investors": [
+      "Bessemer",
+      "Menlo Ventures"
+    ],
+    "description": "Robo-advisor and digital investing platform"
+  },
+  {
+    "name": "Chime",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "Sequoia",
+      "SoftBank",
+      "General Atlantic"
+    ],
+    "description": "USA's largest neobank for mass-market consumers"
+  },
+  {
+    "name": "Dave",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "FTX Ventures",
+      "Tiger Global"
+    ],
+    "description": "Challenger bank focused on cash advance and overdraft protection"
+  },
+  {
+    "name": "Mercury",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech",
+      "Startup Banking"
+    ],
+    "investors": [
+      "Coatue",
+      "Andreessen Horowitz"
+    ],
+    "description": "Banking platform designed for startups and tech companies"
+  },
+  {
+    "name": "Arc",
+    "stage": "Series B",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Startup Banking"
+    ],
+    "investors": [
+      "Bain Capital Ventures",
+      "NFX"
+    ],
+    "description": "Banking and financial operations for SaaS startups"
+  },
+  {
+    "name": "Plaid",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "API",
+      "Banking Infrastructure"
+    ],
+    "investors": [
+      "Andreessen Horowitz",
+      "Index Ventures",
+      "NEA"
+    ],
+    "description": "Financial data network connecting apps to bank accounts"
+  },
+  {
+    "name": "MX Technologies",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Open Banking"
+    ],
+    "investors": [
+      "Battery Ventures",
+      "Point72"
+    ],
+    "description": "Open finance and data platform for financial institutions"
+  },
+  {
+    "name": "Marqeta",
+    "stage": "Public",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fintech",
+      "Card Issuing"
+    ],
+    "investors": [
+      "Visa",
+      "Coatue",
+      "Goldman Sachs"
+    ],
+    "description": "Modern card issuing and payment processing platform"
+  },
+  {
+    "name": "Adyen",
+    "stage": "Public",
+    "regions": [
+      "Netherlands",
+      "Singapore"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [],
+    "description": "Global payments platform for enterprise merchants"
+  },
+  {
+    "name": "Mollie",
+    "stage": "Unicorn",
+    "regions": [
+      "Netherlands",
+      "UK"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "investors": [
+      "Blackstone",
+      "TCV"
+    ],
+    "description": "European payment service provider for SMEs"
+  },
+  {
+    "name": "Sumup",
+    "stage": "Unicorn",
+    "regions": [
+      "UK",
+      "Germany"
+    ],
+    "tags": [
+      "Fintech",
+      "SME Payments"
+    ],
+    "investors": [
+      "Bain Capital",
+      "Temasek"
+    ],
+    "description": "Mobile point-of-sale and payment solution for small businesses"
+  },
+  {
+    "name": "N26",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany"
+    ],
+    "tags": [
+      "Neobank",
+      "Fintech"
+    ],
+    "investors": [
+      "Insight Partners",
+      "GIC",
+      "Tencent"
+    ],
+    "description": "Europe's leading mobile bank"
+  },
+  {
+    "name": "Trade Republic",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany"
+    ],
+    "tags": [
+      "Fintech",
+      "Investing",
+      "Neobroker"
+    ],
+    "investors": [
+      "Sequoia",
+      "TCV",
+      "Thrive Capital"
+    ],
+    "description": "European savings and investing platform"
+  },
+  {
+    "name": "Personio",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany"
+    ],
+    "tags": [
+      "HR Tech",
+      "SaaS"
+    ],
+    "investors": [
+      "Accel",
+      "Index Ventures",
+      "Meritech"
+    ],
+    "description": "HR management platform for European SMEs"
+  },
+  {
+    "name": "Contentful",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany",
+      "USA"
+    ],
+    "tags": [
+      "CMS",
+      "SaaS",
+      "Developer Tools"
+    ],
+    "investors": [
+      "Sapphire Ventures",
+      "General Atlantic"
+    ],
+    "description": "Headless CMS and content infrastructure platform"
+  },
+  {
+    "name": "GetYourGuide",
+    "stage": "Unicorn",
+    "regions": [
+      "Germany",
+      "Singapore"
+    ],
+    "tags": [
+      "Travel",
+      "Marketplace"
+    ],
+    "investors": [
+      "SoftBank",
+      "KKR"
+    ],
+    "description": "Online marketplace for travel experiences and activities"
+  },
+  {
+    "name": "Tencent",
+    "aliases": [
+      "腾讯",
+      "腾讯科技",
+      "腾讯控股"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Social",
+      "Gaming",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "Chinese tech giant — WeChat, gaming, cloud, fintech",
+    "source": "curated"
+  },
+  {
+    "name": "Alibaba",
+    "aliases": [
+      "阿里巴巴",
+      "阿里",
+      "Alibaba Group"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce",
+      "Cloud",
+      "Fintech"
+    ],
+    "investors": [],
+    "description": "Chinese e-commerce and cloud giant",
+    "source": "curated"
+  },
+  {
+    "name": "Baidu",
+    "aliases": [
+      "百度"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Search",
+      "AI",
+      "Autonomous Driving"
+    ],
+    "investors": [],
+    "description": "Chinese search engine and AI company",
+    "source": "curated"
+  },
+  {
+    "name": "ByteDance",
+    "aliases": [
+      "字节跳动",
+      "TikTok"
+    ],
+    "stage": "Late Stage",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "Social Media",
+      "AI",
+      "Content"
+    ],
+    "investors": [],
+    "description": "TikTok and Douyin parent company",
+    "source": "curated"
+  },
+  {
+    "name": "Xiaomi",
+    "aliases": [
+      "小米",
+      "小米科技"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Consumer Electronics",
+      "EV",
+      "IoT"
+    ],
+    "investors": [],
+    "description": "Chinese consumer electronics and EV company",
+    "source": "curated"
+  },
+  {
+    "name": "Huawei",
+    "aliases": [
+      "华为",
+      "华为技术"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Telecom",
+      "Semiconductors",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "Chinese telecom and technology company",
+    "source": "curated"
+  },
+  {
+    "name": "JD.com",
+    "aliases": [
+      "京东",
+      "京东商城"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce",
+      "Logistics",
+      "Cloud"
+    ],
+    "investors": [],
+    "description": "Chinese e-commerce and logistics company",
+    "source": "curated"
+  },
+  {
+    "name": "PDD Holdings",
+    "aliases": [
+      "拼多多",
+      "Pinduoduo",
+      "Temu"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China",
+      "USA"
+    ],
+    "tags": [
+      "E-commerce",
+      "Agriculture"
+    ],
+    "investors": [],
+    "description": "Pinduoduo and Temu parent company",
+    "source": "curated"
+  },
+  {
+    "name": "Kuaishou",
+    "aliases": [
+      "快手"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Short Video",
+      "Live Streaming",
+      "Social"
+    ],
+    "investors": [],
+    "description": "Chinese short video and live streaming platform",
+    "source": "curated"
+  },
+  {
+    "name": "NetEase",
+    "aliases": [
+      "网易"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Gaming",
+      "Music",
+      "Education"
+    ],
+    "investors": [],
+    "description": "Chinese internet company — games, music, email",
+    "source": "curated"
+  },
+  {
+    "name": "Xiaohongshu",
+    "aliases": [
+      "小红书",
+      "RedNote",
+      "RED"
+    ],
+    "stage": "Late Stage",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Social Commerce",
+      "Lifestyle",
+      "Content"
+    ],
+    "investors": [
+      "Tencent",
+      "Alibaba"
+    ],
+    "description": "Chinese lifestyle social commerce platform (Little Red Book)",
+    "source": "curated"
+  },
+  {
+    "name": "Ant Group",
+    "aliases": [
+      "蚂蚁集团",
+      "蚂蚁科技",
+      "Alipay"
+    ],
+    "stage": "Late Stage",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Wealth Management"
+    ],
+    "investors": [
+      "Alibaba"
+    ],
+    "description": "Alipay parent company, Chinese fintech giant",
+    "source": "curated"
+  },
+  {
+    "name": "DiDi",
+    "aliases": [
+      "滴滴",
+      "滴滴出行",
+      "Didi"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Ride-hailing",
+      "Autonomous Driving"
+    ],
+    "investors": [
+      "SoftBank",
+      "Tencent"
+    ],
+    "description": "Chinese ride-hailing giant",
+    "source": "curated"
+  },
+  {
+    "name": "iQIYI",
+    "aliases": [
+      "爱奇艺"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Streaming",
+      "Entertainment",
+      "AI"
+    ],
+    "investors": [
+      "Baidu"
+    ],
+    "description": "Chinese online video streaming platform",
+    "source": "curated"
+  },
+  {
+    "name": "Bilibili",
+    "aliases": [
+      "哔哩哔哩",
+      "B站"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Video",
+      "Gaming",
+      "Anime"
+    ],
+    "investors": [
+      "Tencent",
+      "Alibaba"
+    ],
+    "description": "Chinese video platform popular with Gen Z",
+    "source": "curated"
+  },
+  {
+    "name": "Zhihu",
+    "aliases": [
+      "知乎"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Q&A",
+      "Knowledge",
+      "Content"
+    ],
+    "investors": [
+      "Tencent"
+    ],
+    "description": "Chinese Q&A and knowledge-sharing platform",
+    "source": "curated"
+  },
+  {
+    "name": "Trip.com",
+    "aliases": [
+      "携程",
+      "Ctrip"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Travel",
+      "OTA"
+    ],
+    "investors": [],
+    "description": "Leading Chinese online travel agency",
+    "source": "curated"
+  },
+  {
+    "name": "Mango TV",
+    "aliases": [
+      "芒果TV",
+      "芒果超媒"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Streaming",
+      "Entertainment"
+    ],
+    "investors": [],
+    "description": "Chinese streaming platform by Hunan TV",
+    "source": "curated"
+  },
+  {
+    "name": "Weibo",
+    "aliases": [
+      "微博",
+      "新浪微博"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Social Media",
+      "Microblogging"
+    ],
+    "investors": [
+      "Alibaba"
+    ],
+    "description": "Chinese microblogging social media platform",
+    "source": "curated"
+  },
+  {
+    "name": "Pingan Technology",
+    "aliases": [
+      "平安科技",
+      "平安",
+      "Ping An Technology"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Insurance",
+      "Fintech",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Technology arm of Ping An Insurance Group",
+    "source": "curated"
+  },
+  {
+    "name": "Kuaishou Technology",
+    "aliases": [
+      "快手科技"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Short Video",
+      "Live Streaming"
+    ],
+    "investors": [
+      "Tencent"
+    ],
+    "description": "Chinese short video platform",
+    "source": "curated"
+  },
+  {
+    "name": "OPPO",
+    "aliases": [
+      "欧珀",
+      "OPPO Mobile"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Consumer Electronics",
+      "Mobile"
+    ],
+    "investors": [],
+    "description": "Chinese smartphone manufacturer",
+    "source": "curated"
+  },
+  {
+    "name": "vivo",
+    "aliases": [
+      "维沃"
+    ],
+    "stage": "Private",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Consumer Electronics",
+      "Mobile"
+    ],
+    "investors": [],
+    "description": "Chinese smartphone manufacturer",
+    "source": "curated"
+  },
+  {
+    "name": "Lenovo",
+    "aliases": [
+      "联想",
+      "联想集团"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "PC",
+      "Consumer Electronics",
+      "Enterprise"
+    ],
+    "investors": [],
+    "description": "Chinese multinational technology company",
+    "source": "curated"
+  },
+  {
+    "name": "ZTE",
+    "aliases": [
+      "中兴",
+      "中兴通讯"
+    ],
+    "stage": "Public",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Telecom",
+      "Semiconductors",
+      "5G"
+    ],
+    "investors": [],
+    "description": "Chinese telecom equipment and smartphone company",
+    "source": "curated"
+  }
+]

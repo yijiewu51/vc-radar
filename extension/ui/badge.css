@@ -1,0 +1,186 @@
+.vc-radar-wrapper {
+  position: relative;
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.vc-radar-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: 99px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: 0.2px;
+  user-select: none;
+}
+
+.vc-radar-tooltip {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  z-index: 9999;
+  width: 240px;
+  background: #1e1e2e;
+  color: #cdd6f4;
+  border-radius: 10px;
+  padding: 12px 14px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 12px;
+  line-height: 1.6;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  pointer-events: none;
+}
+
+.vc-radar-wrapper:hover .vc-radar-tooltip {
+  display: block;
+}
+
+.vc-radar-tip-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: #cba6f7;
+  margin-bottom: 4px;
+}
+
+.vc-radar-tip-desc {
+  color: #a6adc8;
+  margin-bottom: 8px;
+  font-size: 11.5px;
+}
+
+.vc-radar-tip-row {
+  margin-bottom: 2px;
+  font-size: 11.5px;
+}
+
+.vc-radar-tip-row b {
+  color: #89b4fa;
+  margin-right: 4px;
+}
+
+.vc-radar-tip-tags {
+  margin-top: 8px;
+  color: #a6e3a1;
+  font-size: 11px;
+}
+
+/* Lookup button for unknown companies */
+.vc-radar-lookup {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 6px;
+  font-size: 11px;
+  cursor: pointer;
+  vertical-align: middle;
+  background: #313244;
+  color: #89b4fa;
+  border-radius: 99px;
+  border: 1px solid #45475a;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  user-select: none;
+  transition: background 0.15s;
+}
+.vc-radar-lookup:hover {
+  background: #45475a;
+  color: #cdd6f4;
+}
+
+/* Record button */
+.vc-radar-record {
+  display: inline-block;
+  margin-left: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  vertical-align: middle;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+  user-select: none;
+}
+.vc-radar-wrapper:hover .vc-radar-record {
+  opacity: 1;
+}
+
+/* Record panel */
+.vc-radar-panel {
+  position: absolute;
+  z-index: 99999;
+  width: 240px;
+  background: #1e1e2e;
+  border: 1px solid #45475a;
+  border-radius: 12px;
+  padding: 14px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.vc-radar-panel-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #cba6f7;
+  margin-bottom: 6px;
+}
+.vc-radar-panel-company {
+  font-size: 13px;
+  font-weight: 600;
+  color: #cdd6f4;
+  margin-bottom: 8px;
+}
+.vc-radar-panel-input {
+  width: 100%;
+  background: #313244;
+  border: 1px solid #45475a;
+  border-radius: 6px;
+  color: #cdd6f4;
+  font-size: 12px;
+  padding: 6px 8px;
+  outline: none;
+  margin-bottom: 10px;
+}
+.vc-radar-panel-input:focus { border-color: #cba6f7; }
+.vc-radar-panel-status {
+  width: 100%;
+  background: #313244;
+  border: 1px solid #45475a;
+  border-radius: 6px;
+  color: #cdd6f4;
+  font-size: 12px;
+  padding: 6px 8px;
+  outline: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.vc-radar-panel-status:focus { border-color: #cba6f7; }
+.vc-radar-panel-actions {
+  display: flex;
+  gap: 8px;
+}
+.vc-radar-panel-cancel,
+.vc-radar-panel-confirm {
+  flex: 1;
+  padding: 6px;
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.vc-radar-panel-cancel {
+  background: #313244;
+  color: #a6adc8;
+}
+.vc-radar-panel-confirm {
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+}
+.vc-radar-panel-msg {
+  margin-top: 8px;
+  font-size: 11px;
+  text-align: center;
+  min-height: 14px;
+}

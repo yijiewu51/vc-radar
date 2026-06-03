@@ -1,0 +1,5157 @@
+[
+  {
+    "name": "SpaceX",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Aerospace",
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Aerospace , Artificial Intelligence unicorn ($1250B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Anthropic",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($965B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OpenAI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($852B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ByteDance",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Internet"
+    ],
+    "investors": [],
+    "description": "Internet unicorn ($600B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Stripe",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial services"
+    ],
+    "investors": [],
+    "description": "Financial services unicorn ($159B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Databricks",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($134B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Revolut",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Shein",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($66B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Anduril Industries",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Defense technology"
+    ],
+    "investors": [],
+    "description": "Defense technology unicorn ($61B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Figure AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Humanoid robotics"
+    ],
+    "investors": [],
+    "description": "Humanoid robotics unicorn ($39B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ramp",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($32B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Safe Superintelligence",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($32B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Epic Games",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Video games"
+    ],
+    "investors": [],
+    "description": "Video games unicorn ($31.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "VAST Data",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($30B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Project Prometheus",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($30B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cursor",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($29B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Scale AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($29B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Fanatics",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($27B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cognition AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($26B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chime",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cerebras",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductors Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Semiconductors Artificial intelligence unicorn ($23B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Perplexity AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($20B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chobani",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Consumer staples"
+    ],
+    "investors": [],
+    "description": "Consumer staples unicorn ($20B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Groq",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($20B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Miro",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($17.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Rippling",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Workforce management"
+    ],
+    "investors": [],
+    "description": "Workforce management unicorn ($16.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yuanfudao",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Educational technology"
+    ],
+    "investors": [],
+    "description": "Educational technology unicorn ($15.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Discord",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($15B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DJI",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($15B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "GoPuff",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($15B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Nscale",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($14.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Xiaohongshu",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($14B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Skild AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Robotics"
+    ],
+    "investors": [],
+    "description": "Robotics unicorn ($14B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Plaid",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($13.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OpenSea",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial Technology"
+    ],
+    "investors": [],
+    "description": "Financial Technology unicorn ($13.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Grammarly",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Collaborative software"
+    ],
+    "investors": [],
+    "description": "Collaborative software unicorn ($13B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Shield AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Defense Technology"
+    ],
+    "investors": [],
+    "description": "Defense Technology unicorn ($12.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Devoted Health",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($12.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Faire",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($12.59B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Human-enhancement AI",
+      "Superintelligence"
+    ],
+    "investors": [],
+    "description": "Human-enhancement AI / Superintelligence unicorn ($12.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OpenEvidence",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health Technology"
+    ],
+    "investors": [],
+    "description": "Health Technology unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Thinking Machines Lab",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Biosplice Therapeutics",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health"
+    ],
+    "investors": [],
+    "description": "Health unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Bitmain",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "GoodLeap",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kalshi",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "investors": [],
+    "description": "Finance unicorn ($22B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Checkout.com",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($12B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Whatnot",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-Commerce"
+    ],
+    "investors": [],
+    "description": "E-Commerce unicorn ($11.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Airtable",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Collaborative software"
+    ],
+    "investors": [],
+    "description": "Collaborative software unicorn ($11B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Harvey",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($11B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ZongMu Technology",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Self-driving cars"
+    ],
+    "investors": [],
+    "description": "Self-driving cars unicorn ($11B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Bilt Rewards",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial Technology"
+    ],
+    "investors": [],
+    "description": "Financial Technology unicorn ($10.75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Colossal Biosciences",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Biotechnology"
+    ],
+    "investors": [],
+    "description": "Biotechnology unicorn ($10.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Alchemy",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "investors": [],
+    "description": "Blockchain unicorn ($10.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chehaoduo",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Marketplace"
+    ],
+    "investors": [],
+    "description": "Marketplace unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Digital Currency Group",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Venture capital"
+    ],
+    "investors": [],
+    "description": "Venture capital unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mercor",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Gusto",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Lalamove",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Supply chain management"
+    ],
+    "investors": [],
+    "description": "Supply chain management unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Notion Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Productivity software"
+    ],
+    "investors": [],
+    "description": "Productivity software unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ripple",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Talkdesk",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($10B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OutSystems",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software development"
+    ],
+    "investors": [],
+    "description": "Software development unicorn ($9.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Vercel",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud computing",
+      "AI"
+    ],
+    "investors": [],
+    "description": "Cloud computing / AI unicorn ($9.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HeyTea",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Retail"
+    ],
+    "investors": [],
+    "description": "Retail unicorn ($9.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Neuralink",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Neurotechnology"
+    ],
+    "investors": [],
+    "description": "Neurotechnology unicorn ($9B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tanium",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($9B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Rapyd",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($8.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Nuro",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Robotics"
+    ],
+    "investors": [],
+    "description": "Robotics unicorn ($8.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Snyk",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Application security"
+    ],
+    "investors": [],
+    "description": "Application security unicorn ($8.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Flexport",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zipline",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($7.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Carta",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($7.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "PsiQuantum",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Quantum computing"
+    ],
+    "investors": [],
+    "description": "Quantum computing unicorn ($7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Automation Anywhere",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Robotic process automation"
+    ],
+    "investors": [],
+    "description": "Robotic process automation unicorn ($6.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "WeDoctor",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($6.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yanolja",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Hospitality"
+    ],
+    "investors": [],
+    "description": "Hospitality unicorn ($6.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ziroom",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Real estate technology"
+    ],
+    "investors": [],
+    "description": "Real estate technology unicorn ($6.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DataRobot",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($6.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "iCapital",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial services"
+    ],
+    "investors": [],
+    "description": "Financial services unicorn ($6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Xingsheng Youxuan",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Retail"
+    ],
+    "investors": [],
+    "description": "Retail unicorn ($6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SandboxAQ",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Quantum technology",
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Quantum technology , Artificial intelligence unicorn ($5.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "The Boring Company",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Construction"
+    ],
+    "investors": [],
+    "description": "Construction unicorn ($5.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Fivetran",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data infrastructure"
+    ],
+    "investors": [],
+    "description": "Data infrastructure unicorn ($5.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Postman",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($5.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Viva Republica (Toss)",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($5.48B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Helion Energy",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fusion power"
+    ],
+    "investors": [],
+    "description": "Fusion power unicorn ($5.42B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Blockchain.com",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($5.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OneTrust",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($5.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SambaNova",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($5.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "CloudKitchens",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Ghost kitchen"
+    ],
+    "investors": [],
+    "description": "Ghost kitchen unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Hello TransTech",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Transportation"
+    ],
+    "investors": [],
+    "description": "Transportation unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ro",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health technology"
+    ],
+    "investors": [],
+    "description": "Health technology unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zepz",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Animoca Brands",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Blockchain gaming"
+    ],
+    "investors": [],
+    "description": "Blockchain gaming unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Octopus Energy",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Energy supply"
+    ],
+    "investors": [],
+    "description": "Energy supply unicorn ($5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Checkr",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Human resource management"
+    ],
+    "investors": [],
+    "description": "Human resource management unicorn ($4.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dataiku",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($4.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Magic Leap",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Augmented reality"
+    ],
+    "investors": [],
+    "description": "Augmented reality unicorn ($4.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Socure",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Identity management"
+    ],
+    "investors": [],
+    "description": "Identity management unicorn ($4.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Quince",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Enterprise Technology"
+    ],
+    "investors": [],
+    "description": "Enterprise Technology unicorn ($4.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Outreach",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Sales"
+    ],
+    "investors": [],
+    "description": "Sales unicorn ($4.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Arctic Wolf Networks",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($4.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chainalysis",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "investors": [],
+    "description": "Blockchain unicorn ($4.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Relativity Space",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Aerospace"
+    ],
+    "investors": [],
+    "description": "Aerospace unicorn ($4.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dataminr",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data analytics"
+    ],
+    "investors": [],
+    "description": "Data analytics unicorn ($4.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yello Mobile",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Software industry"
+    ],
+    "investors": [],
+    "description": "Software industry unicorn ($4.05B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Abnormal Security",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "AlphaSense",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Branch Metrics",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "investors": [],
+    "description": "Marketing unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Clubhouse",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Messaging"
+    ],
+    "investors": [],
+    "description": "Messaging unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Houzz",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Interior design"
+    ],
+    "investors": [],
+    "description": "Interior design unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Megvii",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Patreon",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Online membership service"
+    ],
+    "investors": [],
+    "description": "Online membership service unicorn ($4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Niantic",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Video games"
+    ],
+    "investors": [],
+    "description": "Video games unicorn ($3.95B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "StockX",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($3.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Articulate",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Educational technology"
+    ],
+    "investors": [],
+    "description": "Educational technology unicorn ($3.75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cohesity",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Noom",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($3.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "PAPAYA Global",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Workforce management"
+    ],
+    "investors": [],
+    "description": "Workforce management unicorn ($3.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "WHOOP",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Wearable technology"
+    ],
+    "investors": [],
+    "description": "Wearable technology unicorn ($3.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Shouqi",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Transportation"
+    ],
+    "investors": [],
+    "description": "Transportation unicorn ($3.55B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Alchemy",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "investors": [],
+    "description": "Blockchain unicorn ($3.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Coalition",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($3.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Commure",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health technology"
+    ],
+    "investors": [],
+    "description": "Health technology unicorn ($3.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Preferred Networks",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($3.33B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kurly",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($3.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Youxia Motors",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Electric vehicles"
+    ],
+    "investors": [],
+    "description": "Electric vehicles unicorn ($3.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "MoonPay",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($3.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Plus.ai",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Self-driving trucks"
+    ],
+    "investors": [],
+    "description": "Self-driving trucks unicorn ($3.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Starburst Data",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Data analytics"
+    ],
+    "investors": [],
+    "description": "Data analytics unicorn ($3.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Thumbtack",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ConsenSys",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "investors": [],
+    "description": "Blockchain unicorn ($3.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Verkada",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Physical security"
+    ],
+    "investors": [],
+    "description": "Physical security unicorn ($3.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SpotOn",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($3.15B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Replit",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "CMR Surgical",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Robotics"
+    ],
+    "investors": [],
+    "description": "Robotics unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Traveloka",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Travel"
+    ],
+    "investors": [],
+    "description": "Travel unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ActiveCampaign",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "investors": [],
+    "description": "Marketing unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Age of Learning, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Education"
+    ],
+    "investors": [],
+    "description": "Education unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Automattic",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Internet"
+    ],
+    "investors": [],
+    "description": "Internet unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Calendly",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Forter",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Grafana Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Lucid Software",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Seismic",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sky Mavis",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Video games"
+    ],
+    "investors": [],
+    "description": "Video games unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Souche",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Marketplace"
+    ],
+    "investors": [],
+    "description": "Marketplace unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "TradingView",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "investors": [],
+    "description": "Finance unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "VANCL",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "VIPKID",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Education"
+    ],
+    "investors": [],
+    "description": "Education unicorn ($3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Workrise",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Workforce management"
+    ],
+    "investors": [],
+    "description": "Workforce management unicorn ($2.9B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DriveWealth",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2.85B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Icertis",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "OakNorth",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "investors": [],
+    "description": "Finance unicorn ($2.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Abridge",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare technology and AI"
+    ],
+    "investors": [],
+    "description": "Healthcare technology and AI unicorn ($2.75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Illumio",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($2.75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "MasterClass",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Educational technology"
+    ],
+    "investors": [],
+    "description": "Educational technology unicorn ($2.75B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Daangn Market",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($2.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tridge",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($2.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Nextiva",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tradeshift",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "AmWINS Group",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Insurance"
+    ],
+    "investors": [],
+    "description": "Insurance unicorn ($2.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Pendo",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sourcegraph",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Developer platform"
+    ],
+    "investors": [],
+    "description": "Developer platform unicorn ($2.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Jumpcloud",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2.56B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "EasyA",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($2.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Monzo",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial services"
+    ],
+    "investors": [],
+    "description": "Financial services unicorn ($2.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Suno",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($2.45B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HoneyBook",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial services"
+    ],
+    "investors": [],
+    "description": "Financial services unicorn ($2.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "BitSight",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($2.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Exabeam",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($2.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Paxos",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($2.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mozido",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($2.39B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Headway",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($2.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Highspot",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Sales"
+    ],
+    "investors": [],
+    "description": "Sales unicorn ($2.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Uptake",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Asset performance management"
+    ],
+    "investors": [],
+    "description": "Asset performance management unicorn ($2.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Algolia",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "KeepTruckin",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($2.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Acorns",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Gympass",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fitness"
+    ],
+    "investors": [],
+    "description": "Fitness unicorn ($2.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Transmit Security",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($2.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Addepar",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2.17B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Eightfold.ai",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($2.1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Gamma",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($2.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "6sense",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($2.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Webflow",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Web development"
+    ],
+    "investors": [],
+    "description": "Web development unicorn ($2.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Bought By Many",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Insurance"
+    ],
+    "investors": [],
+    "description": "Insurance unicorn ($2+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tipalti",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Figure AI",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Humanoid robotics"
+    ],
+    "investors": [],
+    "description": "Humanoid robotics unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Hive",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mural",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "AppsFlyer",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Mobile marketing analytics"
+    ],
+    "investors": [],
+    "description": "Mobile marketing analytics unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Calm",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Digital health"
+    ],
+    "investors": [],
+    "description": "Digital health unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ClickHouse",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Database management"
+    ],
+    "investors": [],
+    "description": "Database management unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cockroach Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Database management"
+    ],
+    "investors": [],
+    "description": "Database management unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Divvy Homes",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Real estate technology"
+    ],
+    "investors": [],
+    "description": "Real estate technology unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Druva",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud computing"
+    ],
+    "investors": [],
+    "description": "Cloud computing unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Firstp2p",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Financial services"
+    ],
+    "investors": [],
+    "description": "Financial services unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Formlabs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "3D printing"
+    ],
+    "investors": [],
+    "description": "3D printing unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Huimin.cn",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "B2B e-commerce"
+    ],
+    "investors": [],
+    "description": "B2B e-commerce unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Iterable",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "investors": [],
+    "description": "Marketing unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Meicai.cn",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Agriculture",
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "Agriculture, E-commerce unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mynt",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sword Health",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health"
+    ],
+    "investors": [],
+    "description": "Health unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Trendy International Group",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Fashion",
+      "Retail"
+    ],
+    "investors": [],
+    "description": "Fashion, Retail unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Unqork",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software development"
+    ],
+    "investors": [],
+    "description": "Software development unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Instabase",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zilch",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Akulaku",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Avant",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Consumer finance"
+    ],
+    "investors": [],
+    "description": "Consumer finance unicorn ($1.98B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ThoughtSpot",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Analytics"
+    ],
+    "investors": [],
+    "description": "Analytics unicorn ($1.95B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sanpower Group",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Holding company"
+    ],
+    "investors": [],
+    "description": "Holding company unicorn ($1.93B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ZigBang",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Property technology"
+    ],
+    "investors": [],
+    "description": "Property technology unicorn ($1.93B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Prosper Marketplace",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.9B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Musinsa",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Fashion"
+    ],
+    "investors": [],
+    "description": "Fashion unicorn ($1.89B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Apus Group",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Mobile internet"
+    ],
+    "investors": [],
+    "description": "Mobile internet unicorn ($1.85B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "MEGAZONE",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Cloud computing"
+    ],
+    "investors": [],
+    "description": "Cloud computing unicorn ($1.83B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "NantOmics",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Biotechnology"
+    ],
+    "investors": [],
+    "description": "Biotechnology unicorn ($1.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Quora",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Social network"
+    ],
+    "investors": [],
+    "description": "Social network unicorn ($1.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Radiant Nuclear",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Energy Technology"
+    ],
+    "investors": [],
+    "description": "Energy Technology unicorn ($1.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zocdoc",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1.8B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "LP Cosmetic",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Cosmetics"
+    ],
+    "investors": [],
+    "description": "Cosmetics unicorn ($1.78B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ADVASA",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dragos",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dutchie.com",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cannabis"
+    ],
+    "investors": [],
+    "description": "Cannabis unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "GVE",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Harness",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "PAX Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cannabis"
+    ],
+    "investors": [],
+    "description": "Cannabis unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Workato",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($1.7B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Incredible Health",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare Technology"
+    ],
+    "investors": [],
+    "description": "Healthcare Technology unicorn ($1.65B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HiBob",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "HR technology"
+    ],
+    "investors": [],
+    "description": "HR technology unicorn ($1.65B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Aiways",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Electric vehicles"
+    ],
+    "investors": [],
+    "description": "Electric vehicles unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cresta",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Clari",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HomeLight",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Real estate"
+    ],
+    "investors": [],
+    "description": "Real estate unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SmartHR",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "HR technology"
+    ],
+    "investors": [],
+    "description": "HR technology unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Unite Us",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Vanta",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1.6B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HeartFlow",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1.5+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Airbyte",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Andela",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Education"
+    ],
+    "investors": [],
+    "description": "Education unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Granola",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ID.me",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Identity verification service"
+    ],
+    "investors": [],
+    "description": "Identity verification service unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Matillion",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Data analytics"
+    ],
+    "investors": [],
+    "description": "Data analytics unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "MOLOCO",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Advertising technology"
+    ],
+    "investors": [],
+    "description": "Advertising technology unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mu Sigma",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Management consulting"
+    ],
+    "investors": [],
+    "description": "Management consulting unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Podium",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Remote",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Render",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cloud computing"
+    ],
+    "investors": [],
+    "description": "Cloud computing unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Spring Rain Software",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Starling Bank",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tujia.com",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ZBJ.com",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ascend Money",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.5B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Hellobike",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.47B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Suning Sports",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Holding company"
+    ],
+    "investors": [],
+    "description": "Holding company unicorn ($1.47B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Koudai Gouwu",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.45B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "M1 Finance",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.45B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Away",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Retail"
+    ],
+    "investors": [],
+    "description": "Retail unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Bucketplace",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Interior design"
+    ],
+    "investors": [],
+    "description": "Interior design unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chargebee",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "NetDocuments",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Panther Labs, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Computer security"
+    ],
+    "investors": [],
+    "description": "Computer security unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "QOMPLX, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Computer security"
+    ],
+    "investors": [],
+    "description": "Computer security unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Slash",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Stash",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Symphony",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Voyager",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yotpo",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "investors": [],
+    "description": "Marketing unicorn ($1.4B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "RIDI",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($1.33B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "GPClub",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.32B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Corgi",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DistroKid",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Music"
+    ],
+    "investors": [],
+    "description": "Music unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ETCP",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Feedzai",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "G2",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Innovaccer",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Health care"
+    ],
+    "investors": [],
+    "description": "Health care unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kr Space",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yugabyte",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Database management"
+    ],
+    "investors": [],
+    "description": "Database management unicorn ($1.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cart.com",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Commerce and logistics"
+    ],
+    "investors": [],
+    "description": "Commerce and logistics unicorn ($1.27B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Applied Intuition",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "BigID",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Deel",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($17.3B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ezCater",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Iwjw",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Marshmallow",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Insurance"
+    ],
+    "investors": [],
+    "description": "Insurance unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Rec Room",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Video games"
+    ],
+    "investors": [],
+    "description": "Video games unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Spiber",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Biotechnology"
+    ],
+    "investors": [],
+    "description": "Biotechnology unicorn ($1.22B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Alation",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Axonius",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Copado",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Fair",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "FloQast",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Intercom",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Triple-1",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "investors": [],
+    "description": "Blockchain unicorn ($1.2B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sysdig",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1.18B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Starcloud",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Orbital Data Centers"
+    ],
+    "investors": [],
+    "description": "Orbital Data Centers unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "3DOM Alliance, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Battery manufacturing"
+    ],
+    "investors": [],
+    "description": "Battery manufacturing unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Carousell",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Marketplace"
+    ],
+    "investors": [],
+    "description": "Marketplace unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Luoji Siwei",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sisense",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Business intelligence"
+    ],
+    "investors": [],
+    "description": "Business intelligence unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SmartNews",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Substack",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Media and Publishing"
+    ],
+    "investors": [],
+    "description": "Media and Publishing unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Virta Health",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zego",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Insurance"
+    ],
+    "investors": [],
+    "description": "Insurance unicorn ($1.1B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Substrate",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Semiconductor"
+    ],
+    "investors": [],
+    "description": "Semiconductor unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Character.ai",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial Intelligence unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "VectorBuilder, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Biotechnology"
+    ],
+    "investors": [],
+    "description": "Biotechnology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Emplifi",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Technology"
+    ],
+    "investors": [],
+    "description": "Technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Gymshark",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Sportswear"
+    ],
+    "investors": [],
+    "description": "Sportswear unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kopi Kenangan",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Coffee shop"
+    ],
+    "investors": [],
+    "description": "Coffee shop unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ClassDojo",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Education Technology"
+    ],
+    "investors": [],
+    "description": "Education Technology unicorn ($1.25B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "58 Daojia",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Acronis",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ajaib",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Amber Group",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "AppDirect",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Asia First Media",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Media"
+    ],
+    "investors": [],
+    "description": "Media unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Beibei",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Bluecore",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "investors": [],
+    "description": "E-commerce unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Cadence Solutions, Inc.",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Carro",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Marketplace"
+    ],
+    "investors": [],
+    "description": "Marketplace unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Chubao Technology",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dt Dream",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Dunamu",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DXY",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "eSentire",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Flash Express",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Flexe",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Flutterwave",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "FXiaoKe",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Gousto",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Meal kit"
+    ],
+    "investors": [],
+    "description": "Meal kit unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "HighRadius",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Huikedu Group",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "iCarbonX",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Healthcare"
+    ],
+    "investors": [],
+    "description": "Healthcare unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "IGAWorks",
+    "stage": "Unicorn",
+    "regions": [
+      "Korea"
+    ],
+    "tags": [
+      "Advertising technology"
+    ],
+    "investors": [],
+    "description": "Advertising technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Improbable",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Cloud computing"
+    ],
+    "investors": [],
+    "description": "Cloud computing unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Injective",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Jollychic",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Just Salad",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Restaurants"
+    ],
+    "investors": [],
+    "description": "Restaurants unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kendra Scott LLC",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Jewelery"
+    ],
+    "investors": [],
+    "description": "Jewelery unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Klook",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "LinkSure Network ( WiFi Master Key )",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "LMAX Group",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Locus Robotics",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Robotics"
+    ],
+    "investors": [],
+    "description": "Robotics unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Lookout",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Maimai",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Masterworks",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial Technology"
+    ],
+    "investors": [],
+    "description": "Financial Technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Matrixport",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mia.com",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "MobileCoin",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cryptocurrency"
+    ],
+    "investors": [],
+    "description": "Cryptocurrency unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Mofang Apartment",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Moka",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Human resource management"
+    ],
+    "investors": [],
+    "description": "Human resource management unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Morning Consult",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Ninja Van",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Nium",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Kredivo",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Opn (Synqa)",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "PandaDoc",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Pantheon Systems",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "WebOps"
+    ],
+    "investors": [],
+    "description": "WebOps unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "PatSnap",
+    "stage": "Unicorn",
+    "regions": [
+      "Singapore"
+    ],
+    "tags": [
+      "Intellectual property"
+    ],
+    "investors": [],
+    "description": "Intellectual property unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Picsart",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Graphic design"
+    ],
+    "investors": [],
+    "description": "Graphic design unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Playco",
+    "stage": "Unicorn",
+    "regions": [
+      "Japan"
+    ],
+    "tags": [
+      "Mobile gaming"
+    ],
+    "investors": [],
+    "description": "Mobile gaming unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Redis Labs",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "REEF Technology",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Real estate technology"
+    ],
+    "investors": [],
+    "description": "Real estate technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Quizlet",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Educational technology"
+    ],
+    "investors": [],
+    "description": "Educational technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Revolution Precrafted",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Architecture"
+    ],
+    "investors": [],
+    "description": "Architecture unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Shippo",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Sift",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Fraud prevention"
+    ],
+    "investors": [],
+    "description": "Fraud prevention unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SmartAsset",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "SmartMore",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Splashtop",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Synthesia",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tekion",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tezign",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Software"
+    ],
+    "investors": [],
+    "description": "Software unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tongdun Technology",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tractable",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "investors": [],
+    "description": "Artificial intelligence unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Tresata",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "TrueLayer",
+    "stage": "Unicorn",
+    "regions": [
+      "UK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Turo",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Car sharing"
+    ],
+    "investors": [],
+    "description": "Car sharing unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Vagaro",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software as a service"
+    ],
+    "investors": [],
+    "description": "Software as a service unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Vox Media",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Digital media"
+    ],
+    "investors": [],
+    "description": "Digital media unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "VTS",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Wacai.com",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "WeLab",
+    "stage": "Unicorn",
+    "regions": [
+      "HK"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Womai",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Xendit",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Xiaozhu.com",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "YH Global",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Telecommunications"
+    ],
+    "investors": [],
+    "description": "Telecommunications unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yidian Zixun",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Yitu Technology",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "YunQuNa",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [
+      "Logistics"
+    ],
+    "investors": [],
+    "description": "Logistics unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zenoti",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Software company"
+    ],
+    "investors": [],
+    "description": "Software company unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zhuanzhuan",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Zuoyebang",
+    "stage": "Unicorn",
+    "regions": [
+      "China"
+    ],
+    "tags": [],
+    "investors": [],
+    "description": " unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "eFishery",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Aquaculture"
+    ],
+    "investors": [],
+    "description": "Aquaculture unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "LINE MAN Wongnai",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "E-commerce",
+      "Food delivery"
+    ],
+    "investors": [],
+    "description": "E-commerce, Food delivery unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "ReliaQuest",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "DANA",
+    "stage": "Unicorn",
+    "regions": [
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Financial technology"
+    ],
+    "investors": [],
+    "description": "Financial technology unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "BlueVoyant",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1+B)",
+    "source": "wikipedia_unicorn"
+  },
+  {
+    "name": "Stytch",
+    "stage": "Unicorn",
+    "regions": [
+      "USA"
+    ],
+    "tags": [
+      "Cybersecurity"
+    ],
+    "investors": [],
+    "description": "Cybersecurity unicorn ($1B)",
+    "source": "wikipedia_unicorn"
+  }
+]

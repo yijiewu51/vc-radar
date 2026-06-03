@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      width: 300px;
+      font-family: -apple-system, sans-serif;
+      background: #1e1e2e;
+      color: #cdd6f4;
+      padding: 16px;
+    }
+    h2 { font-size: 15px; color: #cba6f7; margin-bottom: 14px; }
+    label { display: block; font-size: 11px; color: #89b4fa; margin-bottom: 4px; margin-top: 10px; }
+    input {
+      width: 100%;
+      background: #313244;
+      border: 1px solid #45475a;
+      border-radius: 6px;
+      color: #cdd6f4;
+      font-size: 12px;
+      padding: 6px 8px;
+      outline: none;
+    }
+    input:focus { border-color: #cba6f7; }
+    button {
+      width: 100%;
+      margin-top: 14px;
+      padding: 8px;
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    #status { margin-top: 10px; font-size: 12px; text-align: center; color: #a6e3a1; min-height: 16px; }
+    .divider { border: none; border-top: 1px solid #313244; margin: 14px 0; }
+    .tip { font-size: 11px; color: #6c7086; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <h2>⚡ VC Radar 设置</h2>
+
+  <label>Notion Integration Token</label>
+  <input id="token" type="password" placeholder="ntn_xxx..." />
+
+  <label>Notion Database ID</label>
+  <input id="dbId" placeholder="32位 Database ID" />
+
+  <hr class="divider">
+
+  <label>Anthropic API Key（用于 🔍 公司 AI 简介）</label>
+  <input id="anthropicKey" type="password" placeholder="sk-ant-xxx..." />
+
+  <button id="save">保存</button>
+  <div id="status"></div>
+
+  <hr class="divider">
+  <p class="tip">在 LinkedIn / Boss直聘 的职位旁点击 📌 按钮，即可一键保存到 Notion 求职记录。</p>
+
+  <script src="popup.js"></script>
+</body>
+</html>
