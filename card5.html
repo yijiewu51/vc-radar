@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>VC Radar - Step 3</title>
+<link rel="stylesheet" href="notion.css">
+<style>
+  .trigger-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 11px 14px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .tr-label { font-size: 11.5px; color: var(--text-3); flex-shrink: 0; }
+  .tr-arrow { color: var(--border); font-size: 13px; }
+
+  .tr-company {
+    font-size: 13px; font-weight: 600; color: var(--text-1);
+    text-decoration: underline;
+    text-decoration-color: var(--text-3);
+    text-underline-offset: 3px;
+  }
+
+  .tr-btn {
+    width: 24px; height: 24px;
+    background: var(--accent-bg);
+    border: 1px solid var(--accent-dim);
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px;
+  }
+
+  .tr-hint { font-size: 11px; color: var(--text-3); }
+
+  .arrow-down { text-align: center; font-size: 16px; color: var(--border); margin-bottom: 14px; }
+
+  /* AI Panel */
+  .ai-panel {
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 0;
+  }
+
+  .ai-header {
+    background: var(--accent);
+    padding: 12px 16px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+
+  .ai-title {
+    font-size: 12.5px; font-weight: 700; color: #fff;
+    display: flex; align-items: center; gap: 6px;
+  }
+
+  .ai-model {
+    font-size: 10px;
+    background: rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.9);
+    padding: 2px 8px; border-radius: 10px;
+    font-weight: 500;
+  }
+
+  .ai-body { padding: 16px 18px 14px; background: var(--bg-card); }
+
+  .co-top {
+    display: flex; align-items: flex-start; gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .co-avatar {
+    width: 38px; height: 38px;
+    background: var(--accent-bg);
+    border: 1px solid var(--accent-dim);
+    border-radius: 9px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--accent);
+    font-size: 11px; font-weight: 800;
+    flex-shrink: 0;
+  }
+
+  .co-name { font-size: 15px; font-weight: 700; color: var(--text-1); letter-spacing: -0.3px; }
+
+  .co-tags { display: flex; gap: 5px; margin-top: 4px; flex-wrap: wrap; }
+
+  .co-tag {
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+    background: var(--bg-block);
+    color: var(--text-2);
+    border: 1px solid var(--border);
+  }
+
+  .co-summary {
+    font-size: 12px; color: var(--text-2); line-height: 1.65;
+    padding: 10px 12px;
+    background: var(--bg-block);
+    border-radius: 8px;
+    border-left: 3px solid var(--accent);
+    margin-bottom: 14px;
+  }
+
+  .ratings-label {
+    font-size: 11px; font-weight: 600; color: var(--text-3);
+    letter-spacing: 0.8px; text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  .rating-item {
+    display: flex; align-items: center; gap: 10px;
+    margin-bottom: 9px;
+  }
+
+  .rating-item:last-child { margin-bottom: 0; }
+
+  .r-name { font-size: 12px; font-weight: 500; color: var(--text-2); width: 90px; flex-shrink: 0; }
+
+  .r-bar-bg {
+    flex: 1; height: 5px;
+    background: var(--border);
+    border-radius: 3px; overflow: hidden;
+  }
+
+  .r-bar { height: 100%; border-radius: 3px; background: var(--accent); }
+
+  .r-score { font-size: 12.5px; font-weight: 700; color: var(--text-1); width: 26px; text-align: right; flex-shrink: 0; }
+
+  .ai-footer {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 7px;
+    padding: 0 18px 16px;
+    background: var(--bg-card);
+  }
+
+  .af-btn {
+    text-align: center; padding: 9px;
+    border-radius: 8px; font-size: 11.5px; font-weight: 600;
+  }
+
+  .btn-dark { background: var(--text-1); color: #fff; }
+  .btn-light { background: var(--bg-block); color: var(--text-1); border: 1px solid var(--border); }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="step-badge">
+    <div class="num">3</div>
+    AI 研究公司
+  </div>
+
+  <h1>不认识这家公司？<br><span class="accent">AI 帮你秒分析</span></h1>
+  <p class="subtitle">悬停任意公司名，点击 🔍，Claude AI 生成深度简介和三维评分</p>
+
+  <div class="trigger-row">
+    <span class="tr-label">悬停公司名</span>
+    <span class="tr-arrow">→</span>
+    <span class="tr-company">Anduril Industries</span>
+    <div class="tr-btn">🔍</div>
+    <span class="tr-hint">点击 🔍 触发</span>
+  </div>
+
+  <div class="arrow-down">↓</div>
+
+  <div class="ai-panel">
+    <div class="ai-header">
+      <div class="ai-title">✨ AI 研究报告</div>
+      <div class="ai-model">Claude Sonnet</div>
+    </div>
+    <div class="ai-body">
+      <div class="co-top">
+        <div class="co-avatar">AN</div>
+        <div>
+          <div class="co-name">Anduril Industries</div>
+          <div class="co-tags">
+            <span class="co-tag">Series F</span>
+            <span class="co-tag">Defense Tech</span>
+            <span class="co-tag">a16z · Founders Fund</span>
+          </div>
+        </div>
+      </div>
+      <div class="co-summary">
+        由 Oculus 联创 Palmer Luckey 创立，专注国防科技。核心产品包括自主无人机系统和 AI 情报平台 Lattice，已获美国国防部数十亿美元合同，估值约 $14B。
+      </div>
+      <div class="ratings-label">AI 综合评分</div>
+      <div class="rating-item">
+        <div class="r-name">发展前景</div>
+        <div class="r-bar-bg"><div class="r-bar" style="width:90%"></div></div>
+        <div class="r-score">4.5</div>
+      </div>
+      <div class="rating-item">
+        <div class="r-name">薪资竞争力</div>
+        <div class="r-bar-bg"><div class="r-bar" style="width:80%"></div></div>
+        <div class="r-score">4.0</div>
+      </div>
+      <div class="rating-item">
+        <div class="r-name">Work-Life Balance</div>
+        <div class="r-bar-bg"><div class="r-bar" style="width:50%"></div></div>
+        <div class="r-score">2.5</div>
+      </div>
+    </div>
+    <div class="ai-footer">
+      <div class="af-btn btn-dark">保存到本地列表</div>
+      <div class="af-btn btn-light">📌 存入 Notion</div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="footer">
+    <div class="footer-brand">
+      <div class="f-logo">📡</div>
+      <div>
+        <div class="f-name">VC Radar</div>
+        <div class="f-sub">免费开源 · GitHub 获取</div>
+      </div>
+    </div>
+    <div class="page-dots">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span class="active"></span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

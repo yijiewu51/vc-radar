@@ -1,0 +1,177 @@
+/* ── Shared Notion Design System ── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg-page:    #F7F6F3;
+  --bg-card:    #FFFFFF;
+  --bg-block:   #F1F0EE;
+  --bg-block2:  #EDECE9;
+  --border:     #E9E8E5;
+  --text-1:     #37352F;
+  --text-2:     #787774;
+  --text-3:     #ACABA8;
+  --accent:     #4F46E5;
+  --accent-bg:  #EEECFB;
+  --accent-dim: #C7C4F8;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-page);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.card {
+  width: 640px;
+  background: var(--bg-card);
+  border-radius: 20px;
+  padding: 52px 52px 48px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 12px 40px rgba(0,0,0,0.07);
+}
+
+/* Brand pill */
+.brand-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: var(--bg-block);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  font-size: 11.5px;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: 20px;
+  margin-bottom: 24px;
+}
+
+.brand-pill .dot {
+  width: 6px; height: 6px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+
+/* Step badge - unified */
+.step-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-block);
+  color: var(--text-2);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px 14px;
+  border-radius: 20px;
+  margin-bottom: 22px;
+  border: 1px solid var(--border);
+}
+
+.step-badge .num {
+  width: 18px; height: 18px;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700;
+}
+
+/* Headings */
+h1 {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--text-1);
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin-bottom: 10px;
+}
+
+h1 .accent {
+  color: var(--accent);
+}
+
+.subtitle {
+  font-size: 14px;
+  color: var(--text-2);
+  line-height: 1.65;
+  margin-bottom: 32px;
+  font-weight: 400;
+}
+
+/* Section label */
+.section-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-3);
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+/* Divider */
+.divider {
+  height: 1px;
+  background: var(--border);
+  margin: 28px 0 24px;
+}
+
+/* Block container */
+.block {
+  background: var(--bg-block);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.f-logo {
+  width: 30px; height: 30px;
+  background: var(--text-1);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 14px;
+}
+
+.f-name { font-size: 14px; font-weight: 700; color: var(--text-1); letter-spacing: -0.2px; }
+.f-sub  { font-size: 11px; color: var(--text-3); margin-top: 1px; }
+
+.page-dots {
+  display: flex;
+  gap: 5px;
+}
+.page-dots span {
+  width: 20px; height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+}
+.page-dots span.active {
+  background: var(--accent);
+  width: 28px;
+}
+
+.cta-btn {
+  background: var(--text-1);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 22px;
+  border-radius: 10px;
+  letter-spacing: -0.2px;
+}

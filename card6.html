@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>VC Radar - Step 4</title>
+<link rel="stylesheet" href="notion.css">
+<style>
+  .click-flow {
+    display: flex; align-items: center; gap: 8px;
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 11px 14px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .cf-badge {
+    display: flex; align-items: center; gap: 5px;
+    background: var(--accent-bg);
+    color: var(--accent);
+    font-size: 11px; font-weight: 600;
+    padding: 3px 9px; border-radius: 5px;
+  }
+
+  .cf-arrow { color: var(--border); font-size: 13px; }
+  .cf-label { font-size: 11.5px; color: var(--text-3); }
+
+  .cf-action {
+    font-size: 11px; font-weight: 600;
+    background: var(--text-1); color: #fff;
+    padding: 3px 9px; border-radius: 5px;
+  }
+
+  .cf-ok { font-size: 11.5px; color: #16A34A; font-weight: 600; }
+
+  .arrow-down { text-align: center; font-size: 16px; color: var(--border); margin-bottom: 14px; }
+
+  /* Notion window */
+  .notion-win {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+
+  .notion-bar {
+    background: var(--bg-block);
+    padding: 9px 14px;
+    display: flex; align-items: center; gap: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .n-dots { display: flex; gap: 5px; }
+  .n-dot { width: 8px; height: 8px; border-radius: 50%; opacity: 0.55; }
+  .nd1 { background: #FF5F57; } .nd2 { background: #FEBC2E; } .nd3 { background: #28C840; }
+
+  .n-title { font-size: 12px; font-weight: 600; color: var(--text-1); margin-left: 4px; }
+
+  /* Table */
+  .db-header {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr 1fr 1fr 1fr;
+    background: var(--bg-block);
+    border-bottom: 1px solid var(--border);
+    padding: 7px 14px;
+  }
+
+  .db-col {
+    font-size: 10.5px; font-weight: 600;
+    color: var(--text-3);
+    letter-spacing: 0.2px;
+  }
+
+  .db-row {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr 1fr 1fr 1fr;
+    padding: 9px 14px;
+    border-bottom: 1px solid var(--bg-block);
+    align-items: center;
+    background: var(--bg-card);
+  }
+
+  .db-row:last-child { border-bottom: none; }
+
+  .db-row.new {
+    background: #FAFAF8;
+    border-left: 3px solid var(--accent);
+  }
+
+  .db-cell { font-size: 11.5px; color: var(--text-1); padding-right: 6px; }
+
+  .co-cell {
+    display: flex; align-items: center; gap: 5px;
+    font-size: 11.5px; font-weight: 600; color: var(--text-1);
+  }
+
+  .new-dot { width: 5px; height: 5px; background: var(--accent); border-radius: 50%; flex-shrink: 0; }
+
+  .status {
+    display: inline-block;
+    font-size: 10px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+  }
+
+  .s-new      { background: var(--accent-bg); color: var(--accent); }
+  .s-applied  { background: #FEF9C3; color: #92400E; }
+  .s-interview{ background: #DCFCE7; color: #15803D; }
+
+  .src { font-size: 10.5px; color: var(--text-3); }
+  .date { font-size: 10.5px; color: var(--text-3); }
+
+  /* Toast */
+  .toast {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--text-1);
+    border-radius: 10px;
+    padding: 12px 16px;
+  }
+
+  .toast-icon { font-size: 16px; }
+  .toast-text { font-size: 12.5px; color: rgba(255,255,255,0.75); font-weight: 500; }
+  .toast-text strong { color: #fff; }
+  .toast-check {
+    margin-left: auto;
+    width: 20px; height: 20px;
+    background: #16A34A;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; color: #fff; flex-shrink: 0;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="step-badge">
+    <div class="num">4</div>
+    记录到 Notion
+  </div>
+
+  <h1>一键记录，<br><span class="accent">求职进度尽在掌握</span></h1>
+  <p class="subtitle">点击 📌，职位信息自动写入 Notion 求职数据库，告别手动复制</p>
+
+  <div class="click-flow">
+    <div class="cf-badge">💰 Series B · Sequoia</div>
+    <div class="cf-arrow">→</div>
+    <span class="cf-label">点击角标上的</span>
+    <div class="cf-action">📌 记录</div>
+    <div class="cf-arrow">→</div>
+    <span class="cf-ok">自动同步 ✓</span>
+  </div>
+
+  <div class="arrow-down">↓</div>
+
+  <div class="notion-win">
+    <div class="notion-bar">
+      <div class="n-dots">
+        <div class="n-dot nd1"></div>
+        <div class="n-dot nd2"></div>
+        <div class="n-dot nd3"></div>
+      </div>
+      <span style="font-size:13px">📋</span>
+      <span class="n-title">求职追踪</span>
+    </div>
+    <div class="db-header">
+      <div class="db-col">公司</div>
+      <div class="db-col">职位</div>
+      <div class="db-col">来源</div>
+      <div class="db-col">状态</div>
+      <div class="db-col">日期</div>
+    </div>
+    <div class="db-row new">
+      <div class="co-cell"><div class="new-dot"></div>Anduril Industries</div>
+      <div class="db-cell" style="color:var(--text-2); font-size:11px;">Software Engineer</div>
+      <div class="src">🔵 LinkedIn</div>
+      <div class="db-cell"><span class="status s-new">待投递</span></div>
+      <div class="date">2024-06-04</div>
+    </div>
+    <div class="db-row">
+      <div class="co-cell">Stripe</div>
+      <div class="db-cell" style="color:var(--text-2); font-size:11px;">Backend Engineer</div>
+      <div class="src">🔵 LinkedIn</div>
+      <div class="db-cell"><span class="status s-applied">已投递</span></div>
+      <div class="date">2024-06-02</div>
+    </div>
+    <div class="db-row">
+      <div class="co-cell">Figma</div>
+      <div class="db-cell" style="color:var(--text-2); font-size:11px;">Product Manager</div>
+      <div class="src">🟢 Boss直聘</div>
+      <div class="db-cell"><span class="status s-interview">面试中</span></div>
+      <div class="date">2024-05-28</div>
+    </div>
+  </div>
+
+  <div class="toast">
+    <div class="toast-icon">📌</div>
+    <div class="toast-text"><strong>Anduril Industries</strong> 已成功记录到 Notion</div>
+    <div class="toast-check">✓</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="footer">
+    <div class="footer-brand">
+      <div class="f-logo">📡</div>
+      <div>
+        <div class="f-name">VC Radar</div>
+        <div class="f-sub">免费开源 · GitHub 获取</div>
+      </div>
+    </div>
+    <div class="page-dots">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>VC Radar - Cover</title>
+<link rel="stylesheet" href="notion.css">
+<style>
+  /* ── Demo screen ── */
+  .demo-screen {
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    overflow: visible;
+    margin-bottom: 28px;
+    position: relative;
+  }
+
+  .screen-bar {
+    background: var(--bg-block2);
+    padding: 9px 14px;
+    border-radius: 16px 16px 0 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .s-dots { display: flex; gap: 5px; }
+  .s-dot { width: 8px; height: 8px; border-radius: 50%; opacity: 0.5; }
+  .sd1 { background: #FF5F57; } .sd2 { background: #FEBC2E; } .sd3 { background: #28C840; }
+
+  .s-url {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 3px 12px;
+    font-size: 11px;
+    color: var(--text-3);
+  }
+
+  .s-url .li { color: #0A66C2; font-weight: 600; }
+
+  .jobs-area { padding: 12px 14px; }
+
+  .job-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    margin-bottom: 6px;
+  }
+
+  .job-row:last-child { margin-bottom: 0; }
+
+  .job-row.active {
+    background: var(--bg-card);
+    border: 1.5px solid var(--accent-dim);
+    box-shadow: 0 2px 8px rgba(79,70,229,0.08);
+  }
+
+  .job-row.muted { opacity: 0.38; }
+
+  .j-logo {
+    width: 34px; height: 34px;
+    border-radius: 7px;
+    font-size: 11px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    color: #fff;
+  }
+
+  .logo-a { background: #3730A3; }
+  .logo-b { background: #1E293B; }
+  .logo-c { background: #374151; }
+
+  .j-title { font-size: 12px; font-weight: 600; color: var(--text-1); margin-bottom: 3px; }
+
+  .j-row { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+
+  .j-co { font-size: 11px; color: var(--text-2); font-weight: 500; }
+
+  .j-badge {
+    font-size: 9.5px; font-weight: 600;
+    padding: 1.5px 7px; border-radius: 4px;
+    background: var(--accent-bg); color: var(--accent);
+  }
+
+  .j-meta { font-size: 10px; color: var(--text-3); margin-top: 3px; }
+
+  /* Popup floats below the active row */
+  .popup-wrap {
+    margin: -2px 14px 14px;
+    position: relative;
+    z-index: 5;
+  }
+
+  .popup {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.1), 0 2px 8px rgba(0,0,0,0.06);
+    overflow: hidden;
+  }
+
+  .popup-header {
+    background: var(--accent);
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .popup-title {
+    font-size: 12.5px;
+    font-weight: 700;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .popup-model {
+    font-size: 10px;
+    background: rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.9);
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-weight: 500;
+  }
+
+  .popup-body { padding: 14px 16px 12px; }
+
+  .pc-top {
+    display: flex;
+    align-items: flex-start;
+    gap: 11px;
+    margin-bottom: 11px;
+  }
+
+  .pc-avatar {
+    width: 38px; height: 38px;
+    background: var(--accent-bg);
+    border: 1px solid var(--accent-dim);
+    border-radius: 9px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--accent);
+    font-size: 11px; font-weight: 800;
+    flex-shrink: 0;
+  }
+
+  .pc-name { font-size: 15px; font-weight: 700; color: var(--text-1); letter-spacing: -0.3px; }
+
+  .pc-tags { display: flex; gap: 5px; margin-top: 4px; flex-wrap: wrap; }
+
+  .pc-tag {
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+    background: var(--bg-block); color: var(--text-2);
+    border: 1px solid var(--border);
+  }
+
+  .pc-raised {
+    display: flex;
+    align-items: center;
+    background: var(--bg-block);
+    border-radius: 8px;
+    padding: 7px 12px;
+    margin-bottom: 11px;
+    gap: 6px;
+    border: 1px solid var(--border);
+  }
+
+  .raised-label { font-size: 11px; color: var(--text-3); }
+  .raised-amt { font-size: 13px; font-weight: 700; color: var(--text-1); margin-left: auto; }
+  .raised-trend { font-size: 10.5px; color: #16A34A; font-weight: 600; }
+
+  .pc-summary {
+    font-size: 11.5px;
+    color: var(--text-2);
+    line-height: 1.6;
+    margin-bottom: 12px;
+    padding: 9px 11px;
+    background: var(--bg-block);
+    border-radius: 8px;
+    border-left: 3px solid var(--accent);
+  }
+
+  .ratings-row { display: flex; gap: 7px; }
+
+  .rating-chip {
+    flex: 1;
+    text-align: center;
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 9px 6px;
+  }
+
+  .rc-score { font-size: 17px; font-weight: 800; color: var(--text-1); }
+  .rc-score .out { font-size: 10px; font-weight: 500; color: var(--text-3); }
+  .rc-label { font-size: 9.5px; color: var(--text-3); margin-top: 2px; line-height: 1.3; }
+
+  .rc-bar-wrap { height: 3px; background: var(--border); border-radius: 2px; margin-top: 6px; overflow: hidden; }
+  .rc-bar { height: 100%; border-radius: 2px; background: var(--accent); }
+
+  .popup-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7px;
+    padding: 0 16px 14px;
+  }
+
+  .pf-btn {
+    text-align: center;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 11.5px;
+    font-weight: 600;
+  }
+
+  .btn-dark { background: var(--text-1); color: #fff; }
+  .btn-light { background: var(--bg-block); color: var(--text-1); border: 1px solid var(--border); }
+
+  /* Feature pills */
+  .feature-pills {
+    display: flex;
+    gap: 7px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+  }
+
+  .pill {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 11px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-2);
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="brand-pill">
+    <div class="dot"></div>
+    VC Radar · Chrome 插件
+  </div>
+
+  <h1>这家公司<br><span class="accent">你听说过吗？</span></h1>
+  <p class="subtitle">
+    刷 LinkedIn / Boss直聘 遇到没听过的公司，<br>
+    VC Radar 1 秒告诉你它的底细 — 融资阶段、投资方、AI 评分全都有
+  </p>
+
+  <!-- Demo screen -->
+  <div class="demo-screen">
+    <div class="screen-bar">
+      <div class="s-dots">
+        <div class="s-dot sd1"></div>
+        <div class="s-dot sd2"></div>
+        <div class="s-dot sd3"></div>
+      </div>
+      <div class="s-url"><span class="li">in</span> linkedin.com/jobs/search</div>
+    </div>
+    <div class="jobs-area">
+      <div class="job-row muted">
+        <div class="j-logo logo-b">MS</div>
+        <div>
+          <div class="j-title">Senior Product Manager</div>
+          <div class="j-row">
+            <span class="j-co">Mistral AI</span>
+          </div>
+          <div class="j-meta">Paris · Remote · 2 天前</div>
+        </div>
+      </div>
+      <div class="job-row active">
+        <div class="j-logo logo-a">CO</div>
+        <div>
+          <div class="j-title">Machine Learning Engineer</div>
+          <div class="j-row">
+            <span class="j-co">Cohere</span>
+            <span class="j-badge">💰 Series D · NVIDIA</span>
+          </div>
+          <div class="j-meta">Toronto / Remote · 全职 · 1 天前</div>
+        </div>
+      </div>
+      <div class="job-row muted">
+        <div class="j-logo logo-c">AN</div>
+        <div>
+          <div class="j-title">Software Engineer, Infra</div>
+          <div class="j-row">
+            <span class="j-co">Anduril Industries</span>
+          </div>
+          <div class="j-meta">Costa Mesa · 全职 · 3 天前</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="popup-wrap">
+      <div class="popup">
+        <div class="popup-header">
+          <div class="popup-title">✨ AI 公司情报</div>
+          <div class="popup-model">Claude Sonnet</div>
+        </div>
+        <div class="popup-body">
+          <div class="pc-top">
+            <div class="pc-avatar">CO</div>
+            <div>
+              <div class="pc-name">Cohere</div>
+              <div class="pc-tags">
+                <span class="pc-tag">Series D</span>
+                <span class="pc-tag">NVIDIA · Salesforce</span>
+                <span class="pc-tag">Enterprise AI</span>
+              </div>
+            </div>
+          </div>
+          <div class="pc-raised">
+            <span class="raised-label">累计融资</span>
+            <span class="raised-amt">$445M</span>
+            <span class="raised-trend">↑ 成长期</span>
+          </div>
+          <div class="pc-summary">
+            由 Google Brain 前研究员创立，专注企业级大语言模型和 RAG 平台。是 OpenAI 最直接的企业市场竞争者之一。
+          </div>
+          <div class="ratings-row">
+            <div class="rating-chip">
+              <div class="rc-score">4.5<span class="out">/5</span></div>
+              <div class="rc-label">发展前景</div>
+              <div class="rc-bar-wrap"><div class="rc-bar" style="width:90%"></div></div>
+            </div>
+            <div class="rating-chip">
+              <div class="rc-score">4.2<span class="out">/5</span></div>
+              <div class="rc-label">薪资竞争力</div>
+              <div class="rc-bar-wrap"><div class="rc-bar" style="width:84%"></div></div>
+            </div>
+            <div class="rating-chip">
+              <div class="rc-score">3.8<span class="out">/5</span></div>
+              <div class="rc-label">Work-Life Balance</div>
+              <div class="rc-bar-wrap"><div class="rc-bar" style="width:76%"></div></div>
+            </div>
+          </div>
+        </div>
+        <div class="popup-footer">
+          <div class="pf-btn btn-dark">保存到列表</div>
+          <div class="pf-btn btn-light">📌 存 Notion</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="feature-pills">
+    <div class="pill">🏷️ 自动融资角标</div>
+    <div class="pill">✨ Claude AI 研究</div>
+    <div class="pill">📌 一键存 Notion</div>
+    <div class="pill">🗄️ 2800+ 家公司</div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-brand">
+      <div class="f-logo">📡</div>
+      <div>
+        <div class="f-name">VC Radar</div>
+        <div class="f-sub">LinkedIn · Boss直聘 · 免费开源</div>
+      </div>
+    </div>
+    <div class="cta-btn">GitHub 获取 →</div>
+  </div>
+
+</div>
+</body>
+</html>

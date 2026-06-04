@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — VC Radar</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    max-width: 720px;
+    margin: 60px auto;
+    padding: 0 24px;
+    color: #37352f;
+    line-height: 1.7;
+    background: #fff;
+  }
+  h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 6px; }
+  .meta { color: #787774; font-size: 14px; margin-bottom: 40px; }
+  h2 { font-size: 17px; font-weight: 600; margin-top: 36px; margin-bottom: 10px; }
+  p, li { font-size: 15px; color: #37352f; }
+  li { margin-bottom: 6px; }
+  ul { padding-left: 20px; }
+  code {
+    background: #f1f0ee;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: monospace;
+  }
+  hr { border: none; border-top: 1px solid #edece9; margin: 40px 0; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p class="meta">VC Radar Chrome Extension &nbsp;·&nbsp; Last updated: June 2024</p>
+
+<p>VC Radar ("the Extension") is an open-source Chrome extension that helps job seekers identify company funding information on LinkedIn and Boss直聘. This policy explains what data the Extension handles and how.</p>
+
+<h2>Data We Collect</h2>
+<p>The Extension does <strong>not</strong> collect, transmit, or store any personal data on remote servers. Specifically:</p>
+<ul>
+  <li>We do not collect your browsing history.</li>
+  <li>We do not collect your LinkedIn or Boss直聘 profile information.</li>
+  <li>We do not track which jobs or companies you view.</li>
+  <li>We do not have a backend server — there is no database storing your activity.</li>
+</ul>
+
+<h2>Data Stored Locally</h2>
+<p>The following data is stored locally in your browser using Chrome's <code>storage</code> API and never leaves your device unless you explicitly send it:</p>
+<ul>
+  <li><strong>Anthropic API Key</strong> — used solely to call the Claude API on your behalf when you request AI company research. Sent directly from your browser to <code>api.anthropic.com</code>.</li>
+  <li><strong>Notion Integration Token & Database ID</strong> — used solely to write job application records to your own Notion database when you click the save button. Sent directly from your browser to <code>api.notion.com</code>.</li>
+  <li><strong>Saved company list</strong> — companies you choose to save via AI research are stored locally in Chrome storage for badge display on future visits.</li>
+</ul>
+
+<h2>Third-Party API Calls</h2>
+<p>When you use the Extension's features, your browser may communicate directly with:</p>
+<ul>
+  <li><strong>Anthropic API</strong> (<code>api.anthropic.com</code>) — when you trigger AI company research. The company name is sent as part of the prompt. No personal information is included.</li>
+  <li><strong>Notion API</strong> (<code>api.notion.com</code>) — when you save a job record. The data sent is: company name, job title, source platform, and date. These go to your own Notion workspace.</li>
+</ul>
+<p>Both services are governed by their own privacy policies. We recommend reviewing Anthropic's and Notion's privacy policies separately.</p>
+
+<h2>Permissions Justification</h2>
+<ul>
+  <li><code>storage</code> — to save your API keys and company list locally.</li>
+  <li><code>host_permissions: api.notion.com, api.anthropic.com</code> — to make API calls on your behalf directly from the browser.</li>
+  <li>Content scripts on <code>linkedin.com</code> and <code>zhipin.com</code> — to read company names from job listings and inject funding badges. No page content is recorded or transmitted.</li>
+</ul>
+
+<h2>Open Source</h2>
+<p>VC Radar is fully open source. You can audit exactly what the Extension does by reviewing the source code on GitHub.</p>
+
+<h2>Changes to This Policy</h2>
+<p>If this policy changes, we will update the "Last updated" date above. Continued use of the Extension after changes constitutes acceptance of the revised policy.</p>
+
+<h2>Contact</h2>
+<p>Questions? Open an issue on the GitHub repository.</p>
+
+<hr>
+<p style="color:#acaba8; font-size:13px;">VC Radar is an independent open-source project and is not affiliated with LinkedIn, Anthropic, or Notion.</p>
+
+</body>
+</html>

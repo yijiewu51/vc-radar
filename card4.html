@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>VC Radar - Step 2</title>
+<link rel="stylesheet" href="notion.css">
+<style>
+  .browser {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+
+  .browser-bar {
+    background: var(--bg-block);
+    padding: 9px 14px;
+    display: flex; align-items: center; gap: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .b-dots { display: flex; gap: 5px; }
+  .b-dot { width: 8px; height: 8px; border-radius: 50%; opacity: 0.55; }
+  .bd1 { background: #FF5F57; } .bd2 { background: #FEBC2E; } .bd3 { background: #28C840; }
+
+  .b-url {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 3px 12px;
+    font-size: 11px;
+    color: var(--text-3);
+  }
+
+  .b-li { color: #0A66C2; font-weight: 600; }
+
+  .jobs-area { padding: 12px 14px; background: var(--bg-card); }
+
+  .job-row {
+    display: flex; align-items: flex-start; gap: 10px;
+    padding: 10px 12px;
+    border-radius: 9px;
+    margin-bottom: 6px;
+    border: 1px solid transparent;
+  }
+
+  .job-row:last-child { margin-bottom: 0; }
+
+  .job-row.hl {
+    background: var(--bg-block);
+    border-color: var(--border);
+  }
+
+  .j-logo {
+    width: 34px; height: 34px; border-radius: 7px;
+    font-size: 11px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; color: #fff;
+  }
+
+  .logo-a { background: #3730A3; }
+  .logo-b { background: #0F766E; }
+  .logo-c { background: #1E3A5F; }
+
+  .j-title { font-size: 12.5px; font-weight: 600; color: var(--text-1); margin-bottom: 3px; }
+
+  .j-row { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+  .j-co { font-size: 11px; color: var(--text-2); font-weight: 500; }
+
+  .j-badge {
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+    background: var(--accent-bg); color: var(--accent);
+  }
+
+  .j-badge-green {
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+    background: #DCFCE7; color: #15803D;
+  }
+
+  .j-badge-amber {
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 7px; border-radius: 4px;
+    background: #FEF9C3; color: #92400E;
+  }
+
+  .j-meta { font-size: 10px; color: var(--text-3); margin-top: 3px; }
+
+  .pin-btn {
+    margin-left: auto;
+    width: 26px; height: 26px;
+    background: var(--bg-block);
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; flex-shrink: 0;
+    align-self: flex-start;
+    margin-top: 3px;
+  }
+
+  /* Tooltip */
+  .tooltip-label { font-size: 11px; color: var(--text-3); margin-bottom: 12px; font-style: italic; }
+
+  .tooltip {
+    background: var(--text-1);
+    border-radius: 12px;
+    padding: 14px 16px;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 8px;
+  }
+
+  .tt-name { font-size: 14px; font-weight: 700; margin-bottom: 3px; }
+
+  .tt-stage {
+    display: inline-block;
+    font-size: 10.5px; font-weight: 600;
+    background: var(--accent);
+    padding: 2px 8px; border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  .tt-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 11.5px;
+    color: rgba(255,255,255,0.45);
+    margin-bottom: 5px;
+  }
+
+  .tt-row:last-child { margin-bottom: 0; }
+  .tt-row span:last-child { color: rgba(255,255,255,0.8); font-weight: 500; text-align: right; }
+
+  /* Callout */
+  .callout {
+    display: flex;
+    gap: 11px;
+    background: var(--accent-bg);
+    border: 1px solid var(--accent-dim);
+    border-radius: 10px;
+    padding: 14px;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+
+  .callout-icon { font-size: 16px; flex-shrink: 0; margin-top: 1px; }
+
+  .callout-text { font-size: 13px; color: var(--accent); line-height: 1.55; font-weight: 500; }
+  .callout-text strong { font-weight: 700; }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="step-badge">
+    <div class="num">2</div>
+    融资角标
+  </div>
+
+  <h1>打开 LinkedIn，<br><span class="accent">融资信息自动出现</span></h1>
+  <p class="subtitle">2800+ 家公司数据库，覆盖 YC、a16z、Sequoia 等主流 VC 投资组合</p>
+
+  <div class="browser">
+    <div class="browser-bar">
+      <div class="b-dots">
+        <div class="b-dot bd1"></div>
+        <div class="b-dot bd2"></div>
+        <div class="b-dot bd3"></div>
+      </div>
+      <div class="b-url"><span class="b-li">in</span> linkedin.com/jobs</div>
+    </div>
+    <div class="jobs-area">
+      <div class="job-row hl">
+        <div class="j-logo logo-a">ST</div>
+        <div style="flex:1">
+          <div class="j-title">Software Engineer, Backend</div>
+          <div class="j-row">
+            <span class="j-co">Stripe</span>
+            <span class="j-badge">💰 Series I · Sequoia</span>
+          </div>
+          <div class="j-meta">San Francisco · 全职 · 1 天前</div>
+        </div>
+        <div class="pin-btn">📌</div>
+      </div>
+      <div class="job-row hl">
+        <div class="j-logo logo-b">OA</div>
+        <div style="flex:1">
+          <div class="j-title">ML Research Engineer</div>
+          <div class="j-row">
+            <span class="j-co">OpenAI</span>
+            <span class="j-badge-green">🦄 独角兽 · a16z</span>
+          </div>
+          <div class="j-meta">Remote · 全职 · 3 天前</div>
+        </div>
+        <div class="pin-btn">📌</div>
+      </div>
+      <div class="job-row hl">
+        <div class="j-logo logo-c">FG</div>
+        <div style="flex:1">
+          <div class="j-title">Product Manager</div>
+          <div class="j-row">
+            <span class="j-co">Figma</span>
+            <span class="j-badge-amber">📈 Series E · Tiger Global</span>
+          </div>
+          <div class="j-meta">New York · 全职 · 5 天前</div>
+        </div>
+        <div class="pin-btn">📌</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-label">悬停角标 → 查看完整详情</div>
+  <div class="block">
+    <div class="tooltip">
+      <div class="tt-name">Stripe</div>
+      <div class="tt-stage">Series I</div>
+      <div class="tt-row"><span>主要投资方</span><span>Sequoia · a16z · Thrive</span></div>
+      <div class="tt-row"><span>融资总额</span><span>$2.3B</span></div>
+      <div class="tt-row"><span>地区</span><span>San Francisco, CA</span></div>
+      <div class="tt-row"><span>标签</span><span>Fintech · Payments</span></div>
+    </div>
+  </div>
+
+  <div class="callout">
+    <div class="callout-icon">💡</div>
+    <div class="callout-text">
+      <strong>Boss直聘同样支持</strong> — 职位列表中同样自动显示角标，无需额外设置
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="footer">
+    <div class="footer-brand">
+      <div class="f-logo">📡</div>
+      <div>
+        <div class="f-name">VC Radar</div>
+        <div class="f-sub">免费开源 · GitHub 获取</div>
+      </div>
+    </div>
+    <div class="page-dots">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span class="active"></span>
+      <span></span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
