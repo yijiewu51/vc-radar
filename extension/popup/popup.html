@@ -4,62 +4,167 @@
   <meta charset="UTF-8">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      width: 300px;
-      font-family: -apple-system, sans-serif;
-      background: #1e1e2e;
-      color: #cdd6f4;
-      padding: 16px;
+      width: 320px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #ffffff;
+      color: #37352f;
+      padding: 18px;
     }
-    h2 { font-size: 15px; color: #cba6f7; margin-bottom: 14px; }
-    label { display: block; font-size: 11px; color: #89b4fa; margin-bottom: 4px; margin-top: 10px; }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid #edece9;
+    }
+
+    .header-icon {
+      width: 30px; height: 30px;
+      background: #18181b;
+      border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 15px; flex-shrink: 0;
+    }
+
+    .header-title { font-size: 14px; font-weight: 700; color: #37352f; }
+    .header-sub   { font-size: 11px; color: #acaba8; margin-top: 1px; }
+
+    .section-label {
+      font-size: 10px; font-weight: 600;
+      color: #acaba8; letter-spacing: 0.8px;
+      text-transform: uppercase; margin-bottom: 10px;
+    }
+
+    .section { margin-bottom: 16px; }
+
+    label {
+      display: block; font-size: 12px; font-weight: 500;
+      color: #37352f; margin-bottom: 4px; margin-top: 9px;
+    }
+
+    label:first-of-type { margin-top: 0; }
+
     input {
       width: 100%;
-      background: #313244;
-      border: 1px solid #45475a;
-      border-radius: 6px;
-      color: #cdd6f4;
+      background: #f7f6f3;
+      border: 1px solid #edece9;
+      border-radius: 7px;
+      color: #37352f;
       font-size: 12px;
-      padding: 6px 8px;
+      font-family: -apple-system, monospace;
+      padding: 7px 9px;
       outline: none;
+      transition: border-color 0.15s;
     }
-    input:focus { border-color: #cba6f7; }
-    button {
-      width: 100%;
-      margin-top: 14px;
-      padding: 8px;
-      background: linear-gradient(135deg, #6366f1, #8b5cf6);
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 13px;
-      font-weight: 600;
-      cursor: pointer;
+
+    input:focus { border-color: #4f46e5; background: #fff; }
+
+    .hint { font-size: 10.5px; color: #acaba8; margin-top: 3px; line-height: 1.45; }
+
+    /* Provider toggle */
+    .provider-row {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 6px; margin-bottom: 11px;
     }
-    #status { margin-top: 10px; font-size: 12px; text-align: center; color: #a6e3a1; min-height: 16px; }
-    .divider { border: none; border-top: 1px solid #313244; margin: 14px 0; }
-    .tip { font-size: 11px; color: #6c7086; line-height: 1.5; }
+
+    .p-btn {
+      padding: 8px 6px; border-radius: 8px;
+      border: 1.5px solid #edece9;
+      background: #f7f6f3;
+      cursor: pointer; text-align: center;
+      transition: all 0.12s;
+    }
+
+    .p-btn.active { border-color: #4f46e5; background: #eeecfb; }
+
+    .p-btn .p-name { font-size: 12.5px; font-weight: 600; color: #37352f; }
+    .p-btn.active .p-name { color: #4f46e5; }
+    .p-btn .p-sub  { font-size: 10px; color: #acaba8; margin-top: 1px; }
+    .p-btn.active .p-sub { color: #6366f1; }
+
+    .key-section { display: none; }
+    .key-section.visible { display: block; }
+
+    .divider { border: none; border-top: 1px solid #edece9; margin: 14px 0; }
+
+    #save {
+      width: 100%; margin-top: 2px;
+      padding: 9px; background: #37352f;
+      color: white; border: none;
+      border-radius: 8px; font-size: 13px;
+      font-weight: 600; cursor: pointer;
+      font-family: -apple-system, sans-serif;
+      transition: background 0.12s;
+    }
+
+    #save:hover { background: #111; }
+
+    #status { margin-top: 8px; font-size: 12px; text-align: center; min-height: 15px; }
+    .ok  { color: #16a34a; }
+    .err { color: #dc2626; }
+
+    .tip {
+      font-size: 11px; color: #acaba8;
+      line-height: 1.55; margin-top: 13px;
+      padding-top: 13px; border-top: 1px solid #edece9;
+    }
   </style>
 </head>
 <body>
-  <h2>⚡ VC Radar 设置</h2>
 
-  <label>Notion Integration Token</label>
-  <input id="token" type="password" placeholder="ntn_xxx..." />
+  <div class="header">
+    <div class="header-icon">📡</div>
+    <div>
+      <div class="header-title">VC Radar</div>
+      <div class="header-sub">LinkedIn · Boss直聘</div>
+    </div>
+  </div>
 
-  <label>Notion Database ID</label>
-  <input id="dbId" placeholder="32位 Database ID" />
+  <!-- Notion -->
+  <div class="section">
+    <div class="section-label">Notion 配置</div>
+    <label>Integration Token</label>
+    <input id="token" type="password" placeholder="ntn_xxx 或 secret_xxx" />
+    <label>Database ID</label>
+    <input id="dbId" type="text" placeholder="32 位 Database ID" />
+    <div class="hint">前往 notion.so/my-integrations 新建集成获取 Token</div>
+  </div>
 
-  <hr class="divider">
+  <div class="divider"></div>
 
-  <label>Anthropic API Key（用于 🔍 公司 AI 简介）</label>
-  <input id="anthropicKey" type="password" placeholder="sk-ant-xxx..." />
+  <!-- AI Provider -->
+  <div class="section">
+    <div class="section-label">AI 提供商（用于 🔍 公司研究）</div>
+    <div class="provider-row">
+      <div class="p-btn active" onclick="selectProvider('anthropic')">
+        <div class="p-name">Anthropic</div>
+        <div class="p-sub">Claude · 国际</div>
+      </div>
+      <div class="p-btn" onclick="selectProvider('deepseek')">
+        <div class="p-name">DeepSeek</div>
+        <div class="p-sub">国内可用</div>
+      </div>
+    </div>
 
-  <button id="save">保存</button>
+    <div id="anthropic-section" class="key-section visible">
+      <input id="anthropicKey" type="password" placeholder="sk-ant-xxx" />
+      <div class="hint">console.anthropic.com 获取</div>
+    </div>
+
+    <div id="deepseek-section" class="key-section">
+      <input id="deepseekKey" type="password" placeholder="sk-xxx" />
+      <div class="hint">platform.deepseek.com 获取，国内直接可用</div>
+    </div>
+  </div>
+
+  <button id="save">保存设置</button>
   <div id="status"></div>
 
-  <hr class="divider">
-  <p class="tip">在 LinkedIn / Boss直聘 的职位旁点击 📌 按钮，即可一键保存到 Notion 求职记录。</p>
+  <p class="tip">📌 点击职位旁角标 → 保存到 Notion &nbsp;·&nbsp; 🔍 悬停公司名 → AI 研究</p>
 
   <script src="popup.js"></script>
 </body>

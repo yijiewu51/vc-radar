@@ -1,16 +1,29 @@
 {
   "manifest_version": 3,
-  "name": "VC Radar",
+  "name": "VC Radar — LinkedIn & Boss Job Intelligence",
   "version": "0.2.0",
-  "description": "在 LinkedIn 和 Boss直聘 上标注潜力初创公司，一键记录到 Notion",
+  "description": "Auto-display funding badges on LinkedIn & Boss直聘. Research any company with Claude AI. One-click save to Notion. 2800+ companies covered.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "permissions": ["storage"],
-  "host_permissions": ["https://api.notion.com/*", "https://api.anthropic.com/*"],
+  "host_permissions": [
+    "https://api.notion.com/*",
+    "https://api.anthropic.com/*",
+    "https://api.deepseek.com/*"
+  ],
   "background": {
     "service_worker": "background.js"
   },
   "action": {
     "default_popup": "popup/popup.html",
-    "default_title": "VC Radar 设置"
+    "default_title": "VC Radar",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+    }
   },
   "content_scripts": [
     {

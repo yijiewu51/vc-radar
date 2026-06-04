@@ -1,9 +1,11 @@
-// Background service worker — handles Notion API calls
+// Background service worker — handles Notion API and AI research calls
 
 const DEFAULT_CONFIG = {
   notionToken: '',
   notionDatabaseId: '',
   anthropicKey: '',
+  deepseekKey: '',
+  aiProvider: 'anthropic',   // 'anthropic' | 'deepseek'
 };
 
 async function getConfig() {
@@ -20,7 +22,6 @@ async function recordJob({ company, title, url, source, status }) {
   const body = {
     parent: { database_id: notionDatabaseId },
     properties: {
-      // Title property (公司)
       '公司': {
         title: [{ text: { content: company || '未知公司' } }],
       },
@@ -59,14 +60,24 @@ async function recordJob({ company, title, url, source, status }) {
   return await resp.json();
 }
 
-async function researchCompany(companyName) {
-  const { anthropicKey } = await getConfig();
-  if (!anthropicKey) throw new Error('未配置 Anthropic API Key，请在插件设置里填写');
+const RESEARCH_PROMPT = (name) =>
+  `请用JSON格式简介这家公司："${name}"。只返回JSON，不要其他内容：\n{"description":"3-4句中文简介，包括做什么、规模阶段、所在地区","ratings":{"growth":4,"salary":3,"wlb":3}}\nratings各项为1-5整数：growth=公司发展前景，salary=薪资竞争力，wlb=work-life balance。不了解则description写"未找到相关信息"，ratings各项给3。`;
 
+function parseAIResponse(text) {
+  const match = text.trim().match(/\{[\s\S]*\}/);
+  if (!match) return { description: text, ratings: { growth: 3, salary: 3, wlb: 3 } };
+  try {
+    return JSON.parse(match[0]);
+  } catch {
+    return { description: text, ratings: { growth: 3, salary: 3, wlb: 3 } };
+  }
+}
+
+async function researchWithAnthropic(companyName, apiKey) {
   const resp = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
-      'x-api-key': anthropicKey,
+      'x-api-key': apiKey,
       'anthropic-version': '2023-06-01',
       'content-type': 'application/json',
       'anthropic-dangerous-direct-browser-access': 'true',
@@ -74,26 +85,50 @@ async function researchCompany(companyName) {
     body: JSON.stringify({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 400,
-      messages: [{
-        role: 'user',
-        content: `请用JSON格式简介这家公司："${companyName}"。只返回JSON，不要其他内容：\n{"description":"3-4句中文简介，包括做什么、规模阶段、所在地区","ratings":{"growth":4,"salary":3,"wlb":3}}\nratings各项为1-5整数：growth=公司发展前景，salary=薪资竞争力，wlb=work-life balance。不了解则description写"未找到相关信息"，ratings各项给3。`,
-      }],
+      messages: [{ role: 'user', content: RESEARCH_PROMPT(companyName) }],
     }),
   });
 
   if (!resp.ok) {
     const err = await resp.json();
-    throw new Error(err.error?.message || `API error ${resp.status}`);
+    throw new Error(err.error?.message || `Anthropic API error ${resp.status}`);
   }
   const data = await resp.json();
-  const raw = data.content[0].text.trim();
-  // Extract JSON even if model adds surrounding text
-  const match = raw.match(/\{[\s\S]*\}/);
-  if (!match) return { description: raw, ratings: { growth: 3, salary: 3, wlb: 3 } };
-  try {
-    return JSON.parse(match[0]);
-  } catch {
-    return { description: raw, ratings: { growth: 3, salary: 3, wlb: 3 } };
+  return parseAIResponse(data.content[0].text);
+}
+
+async function researchWithDeepSeek(companyName, apiKey) {
+  const resp = await fetch('https://api.deepseek.com/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${apiKey}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      model: 'deepseek-chat',
+      max_tokens: 400,
+      messages: [{ role: 'user', content: RESEARCH_PROMPT(companyName) }],
+    }),
+  });
+
+  if (!resp.ok) {
+    const err = await resp.json();
+    throw new Error(err.error?.message || `DeepSeek API error ${resp.status}`);
+  }
+  const data = await resp.json();
+  return parseAIResponse(data.choices[0].message.content);
+}
+
+async function researchCompany(companyName) {
+  const config = await getConfig();
+  const provider = config.aiProvider || 'anthropic';
+
+  if (provider === 'deepseek') {
+    if (!config.deepseekKey) throw new Error('未配置 DeepSeek API Key，请在插件设置里填写');
+    return researchWithDeepSeek(companyName, config.deepseekKey);
+  } else {
+    if (!config.anthropicKey) throw new Error('未配置 Anthropic API Key，请在插件设置里填写');
+    return researchWithAnthropic(companyName, config.anthropicKey);
   }
 }
 
@@ -102,7 +137,7 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
     recordJob(msg.payload)
       .then(() => sendResponse({ ok: true }))
       .catch(e => sendResponse({ ok: false, error: e.message }));
-    return true; // keep channel open for async response
+    return true;
   }
 
   if (msg.type === 'RESEARCH_COMPANY') {
